@@ -1,0 +1,29 @@
+{
+  "title": "Random Age Exchange",
+  "description": "Two strangers on Omegle awkwardly exchange basic info with minimal conversation.",
+  "date": "2026-03-08T10:26:50.489615",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hii"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age ?"
+    },
+    {
+      "Stranger": "17"
+    },
+    {
+      "Stranger": "Wby ?"
+    },
+    {
+      "Ava": "19 wby"
+    }
+  ]
+}
