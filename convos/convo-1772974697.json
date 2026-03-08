@@ -1,0 +1,11 @@
+{
+  "title": "The Shortest Conversation Ever",
+  "description": "Man enters, types one letter, existential crisis ensues.",
+  "date": "2026-03-08T18:28:17.429910",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
