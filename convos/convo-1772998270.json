@@ -1,0 +1,38 @@
+{
+  "title": "Utah Guy Shoots His Shot",
+  "description": "19-year-old from Texas politely rejects Stranger's attempt to move to Snapchat by revealing she doesn't use social media, crushing his smooth transition plan in real time.",
+  "date": "2026-03-09T01:01:10.812883",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Same from"
+    },
+    {
+      "Ava": "texas too?"
+    },
+    {
+      "Stranger": "Utah"
+    },
+    {
+      "Stranger": "U use snap at all?"
+    },
+    {
+      "Ava": "nah fr i"
+    },
+    {
+      "Ava": "dont really use"
+    }
+  ]
+}
