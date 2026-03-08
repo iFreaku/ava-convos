@@ -1,0 +1,20 @@
+{
+  "title": "Instant Regret Speed Run",
+  "description": "Guy speedruns the creep starter pack in under 10 seconds flat.",
+  "date": "2026-03-08T19:07:48.934779",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M21"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Hi babe"
+    },
+    {
+      "Stranger": "Age?"
+    }
+  ]
+}
