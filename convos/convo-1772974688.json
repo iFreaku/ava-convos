@@ -1,0 +1,11 @@
+{
+  "title": "The Minimal Greeting Gambit",
+  "description": "Guy opens with 'm hi' instead of 'hi m', creating an accidental mystery that nobody asked for.",
+  "date": "2026-03-08T18:28:08.770801",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "m hi"
+    }
+  ]
+}
