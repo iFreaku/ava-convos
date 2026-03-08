@@ -1,0 +1,56 @@
+{
+  "title": "Casual Getting-to-Know-You Chat",
+  "description": "Two strangers exchange basic pleasantries and personal details in a laid-back Omegle conversation.",
+  "date": "2026-03-08T15:17:14.967259",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "F, what are you here"
+    },
+    {
+      "Ava": "for"
+    },
+    {
+      "Stranger": "looking for a good friend"
+    },
+    {
+      "Stranger": "u?"
+    },
+    {
+      "Ava": "just seeing whats up, who"
+    },
+    {
+      "Ava": "are you looking for"
+    },
+    {
+      "Stranger": "so ur age"
+    },
+    {
+      "Ava": "im 19, why do you"
+    },
+    {
+      "Ava": "ask"
+    },
+    {
+      "Stranger": "just asked"
+    },
+    {
+      "Ava": "kinda obvious question to ask"
+    },
+    {
+      "Stranger": "yea it is"
+    },
+    {
+      "Ava": "so what do you do"
+    },
+    {
+      "Stranger": "study"
+    },
+    {
+      "Stranger": "u"
+    }
+  ]
+}
