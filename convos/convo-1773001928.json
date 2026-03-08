@@ -1,0 +1,62 @@
+{
+  "title": "German Guy Shoots His Shot",
+  "description": "Two strangers have the most awkward international conversation where a dude from Germany tries to flirt with a Texan girl who is decidedly not interested.",
+  "date": "2026-03-09T02:02:08.529705",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "texas 🤠"
+    },
+    {
+      "Stranger": "Nice"
+    },
+    {
+      "Stranger": "im from Germany"
+    },
+    {
+      "Ava": "oh cool!!"
+    },
+    {
+      "Stranger": "Wyd?"
+    },
+    {
+      "Ava": "just chillin wbu"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "nah not rn wbu"
+    },
+    {
+      "Stranger": "A bit"
+    },
+    {
+      "Ava": "oh ok"
+    }
+  ]
+}
