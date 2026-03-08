@@ -1,0 +1,56 @@
+{
+  "title": "Interrogation at Light Speed",
+  "description": "Canadian stranger rapid-fires personal questions like they're conducting an FBI interview while you just want to chill.",
+  "date": "2026-03-08T22:47:42.938312",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "hey there"
+    },
+    {
+      "Stranger": "How are you"
+    },
+    {
+      "Ava": "i'm doing pretty good wyd"
+    },
+    {
+      "Stranger": "I am great actually"
+    },
+    {
+      "Stranger": "Where you from"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "Guy?"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Okay okay"
+    },
+    {
+      "Stranger": "Ontario"
+    },
+    {
+      "Stranger": "Are you busy or something?"
+    },
+    {
+      "Ava": "nah just chillin wbu"
+    },
+    {
+      "Stranger": "Same here"
+    },
+    {
+      "Stranger": "How old"
+    }
+  ]
+}
