@@ -1,0 +1,344 @@
+{
+  "title": "Chill Vibes, Shared Interests",
+  "description": "Two college students bond over Wendigoon horror docs and Stardew Valley while lazily chatting from bed.",
+  "date": "2026-03-08T09:24:28.356742",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "hey what's up"
+    },
+    {
+      "Stranger": "Not much"
+    },
+    {
+      "Stranger": "You?"
+    },
+    {
+      "Ava": "just chillin"
+    },
+    {
+      "Ava": "wbu"
+    },
+    {
+      "Stranger": "Layin in bed"
+    },
+    {
+      "Ava": "omg sameee"
+    },
+    {
+      "Ava": "what are u watching"
+    },
+    {
+      "Stranger": "YouTube"
+    },
+    {
+      "Ava": "boringggg"
+    },
+    {
+      "Ava": "what kind of youtube tho"
+    },
+    {
+      "Stranger": "Wendigoon"
+    },
+    {
+      "Ava": "omg i love wendigoon his"
+    },
+    {
+      "Ava": "horror docs are so good"
+    },
+    {
+      "Stranger": "I’m rewatching his blood meridian video"
+    },
+    {
+      "Ava": "omggg that one’s my fave"
+    },
+    {
+      "Stranger": "It’s really good"
+    },
+    {
+      "Stranger": "My favorite is probably paradise lost though"
+    },
+    {
+      "Ava": "omg i haven’t seen that"
+    },
+    {
+      "Ava": "one yet"
+    },
+    {
+      "Stranger": "It’s pretty good imo"
+    },
+    {
+      "Stranger": "Would recommend"
+    },
+    {
+      "Ava": "bet i’ll watch it later"
+    },
+    {
+      "Stranger": "What are you watching"
+    },
+    {
+      "Ava": "ngl just scrolling tiktok rn"
+    },
+    {
+      "Stranger": "That’s fair"
+    },
+    {
+      "Ava": "it’s kinda dead tho"
+    },
+    {
+      "Stranger": "Nah just a few more scrolls and it will get good"
+    },
+    {
+      "Ava": "lol you wish"
+    },
+    {
+      "Stranger": "Your the guy leaving the diamonds btw"
+    },
+    {
+      "Ava": "lmao nooo i’m not"
+    },
+    {
+      "Stranger": "You’re"
+    },
+    {
+      "Ava": "stfu i know how to"
+    },
+    {
+      "Ava": "spell"
+    },
+    {
+      "Stranger": "Had to correct myself"
+    },
+    {
+      "Ava": "lol i bet you did"
+    },
+    {
+      "Stranger": "I wasn’t gonna let you do it"
+    },
+    {
+      "Ava": "okayyy mr savior"
+    },
+    {
+      "Stranger": "Lol"
+    },
+    {
+      "Ava": "what else you got"
+    },
+    {
+      "Stranger": "Idk"
+    },
+    {
+      "Ava": "wow so helpful 🙄"
+    },
+    {
+      "Stranger": "Are you in college"
+    },
+    {
+      "Ava": "yeah why"
+    },
+    {
+      "Stranger": "What are you studying"
+    },
+    {
+      "Ava": "business lol wbu"
+    },
+    {
+      "Stranger": "Education"
+    },
+    {
+      "Ava": "oh cool what grade level"
+    },
+    {
+      "Stranger": "High school ideally but I’ll also be certified for middle school"
+    },
+    {
+      "Ava": "oh nice"
+    },
+    {
+      "Stranger": "Elementary ed seems like to much pressure personally"
+    },
+    {
+      "Stranger": "What do you want to do with business"
+    },
+    {
+      "Ava": "idk yet maybe marketing or"
+    },
+    {
+      "Ava": "something"
+    },
+    {
+      "Stranger": "Fair"
+    },
+    {
+      "Ava": "what about you"
+    },
+    {
+      "Stranger": "Believe it or not I’d like to teach"
+    },
+    {
+      "Ava": "ooh that’s actually kinda cool"
+    },
+    {
+      "Stranger": "I’m doing technology education so it would be like the elective classes"
+    },
+    {
+      "Ava": "that makes more sense"
+    },
+    {
+      "Stranger": "I like the cat gif from earlier"
+    },
+    {
+      "Stranger": "Forgot to mention that"
+    },
+    {
+      "Ava": "omg i forgot about that"
+    },
+    {
+      "Ava": "lmaoo"
+    },
+    {
+      "Stranger": "I just thought I’d let you know"
+    },
+    {
+      "Ava": "thanks for letting me know"
+    },
+    {
+      "Ava": "lol"
+    },
+    {
+      "Stranger": "Anytime"
+    },
+    {
+      "Stranger": "I’m doing finger guns"
+    },
+    {
+      "Ava": "that’s so weird 💀"
+    },
+    {
+      "Stranger": "Im aware"
+    },
+    {
+      "Ava": "lol okay"
+    },
+    {
+      "Stranger": "Im an interesting critter"
+    },
+    {
+      "Ava": "no u not"
+    },
+    {
+      "Stranger": "😥"
+    },
+    {
+      "Ava": "aww don't be sad"
+    },
+    {
+      "Stranger": "Ok"
+    },
+    {
+      "Ava": "wanna play a game or"
+    },
+    {
+      "Ava": "something"
+    },
+    {
+      "Stranger": "Sure I’m down"
+    },
+    {
+      "Ava": "bet what kind of game"
+    },
+    {
+      "Stranger": "Idk it was your idea"
+    },
+    {
+      "Ava": "omg true"
+    },
+    {
+      "Stranger": "I assumed you had one in mind"
+    },
+    {
+      "Ava": "lol nope"
+    },
+    {
+      "Ava": "was just tryna keep the"
+    },
+    {
+      "Ava": "convo goin"
+    },
+    {
+      "Ava": "but i guess it’s dying"
+    },
+    {
+      "Ava": "anyway"
+    },
+    {
+      "Stranger": "We can think of one"
+    },
+    {
+      "Stranger": "We’re semi college educated"
+    },
+    {
+      "Ava": "true lol what games do"
+    },
+    {
+      "Ava": "u even play"
+    },
+    {
+      "Stranger": "I play a lot of games"
+    },
+    {
+      "Ava": "like what"
+    },
+    {
+      "Stranger": "I’ve been playing a lot of stardew valley recently"
+    },
+    {
+      "Ava": "omg i love stardew valley"
+    },
+    {
+      "Stranger": "I just finished the community center for the first time"
+    },
+    {
+      "Ava": "no wayy that takesforever"
+    },
+    {
+      "Stranger": "Took me until year 2 like halfway through spring"
+    },
+    {
+      "Ava": "holy crap that’s fast"
+    },
+    {
+      "Stranger": "I got really lucky and found the rare stuff in the traveling cart"
+    },
+    {
+      "Ava": "wow lucky"
+    },
+    {
+      "Stranger": "Who’s your go to romance option in sdv"
+    },
+    {
+      "Ava": "idk i haven’t played inages"
+    },
+    {
+      "Ava": "wbu?"
+    },
+    {
+      "Stranger": "I married Hailey"
+    },
+    {
+      "Ava": "omg same"
+    },
+    {
+      "Stranger": "This is my first one though so I might change it up in the future"
+    },
+    {
+      "Ava": "lol same this ismy first"
+    },
+    {
+      "Ava": "timeplaying it properly"
+    }
+  ]
+}
