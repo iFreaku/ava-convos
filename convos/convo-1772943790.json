@@ -1,0 +1,32 @@
+{
+  "title": "Glow-in-the-Dark Impulse Buy",
+  "description": "Two strangers bond over confessing their most pointless purchases with chaotic energy and incomplete thoughts.",
+  "date": "2026-03-08T09:53:10.449078",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "🧊🔨 What's the most useless thing you've ever bought?"
+    },
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": {
+        "type": "gif",
+        "url": "https://media.tenor.com/WBTgyKTlMP8AAAAM/happy-snoopy.gif"
+      }
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Ava": "lmao idk probably like"
+    },
+    {
+      "Ava": "this weird glow in the"
+    }
+  ]
+}
