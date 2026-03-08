@@ -1,0 +1,26 @@
+{
+  "title": "Age Gap Flirtation Gone Nowhere",
+  "description": "Twenty-five-year-old Alex tries smooth introductions while 19-year-old plays it cool with mysterious emoji energy.",
+  "date": "2026-03-09T00:29:46.023192",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "hey m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "hey how old are you?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "nice i'm 25. i'm alex"
+    },
+    {
+      "Ava": "Hehe I'm waiting 😜"
+    }
+  ]
+}
