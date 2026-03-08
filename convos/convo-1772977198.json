@@ -1,0 +1,56 @@
+{
+  "title": "Paris Guy Shoots His Shot",
+  "description": "20-year-old from Paris tries to slide into DMs of bored Texas girl who politely friendzones him with the snap refusal.",
+  "date": "2026-03-08T19:09:58.933804",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age ?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Stranger": "20"
+    },
+    {
+      "Stranger": "From ?"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "Oh cool"
+    },
+    {
+      "Stranger": "Paris"
+    },
+    {
+      "Stranger": "Wyd here"
+    },
+    {
+      "Ava": "just chillin wbu"
+    },
+    {
+      "Stranger": "Same tbh"
+    },
+    {
+      "Stranger": "In my bed im bored"
+    },
+    {
+      "Stranger": "Do u have snapchat ?"
+    },
+    {
+      "Ava": "nah i dont use snap"
+    }
+  ]
+}
