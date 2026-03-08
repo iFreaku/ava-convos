@@ -1,0 +1,50 @@
+{
+  "title": "Snap? Nah Fam",
+  "description": "Guy tries the classic Omegle move of asking for Snap within 30 seconds, gets politely rejected by someone who simply has standards.",
+  "date": "2026-03-09T02:37:43.195870",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just chillin wbu"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "kinda"
+    },
+    {
+      "Stranger": "Snap?"
+    },
+    {
+      "Ava": "nah i dont use that"
+    },
+    {
+      "Ava": "app"
+    },
+    {
+      "Stranger": "Why"
+    },
+    {
+      "Ava": "just dont like it tbh"
+    }
+  ]
+}
