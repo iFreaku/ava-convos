@@ -1,0 +1,29 @@
+{
+  "title": "Snap Collector Strikes Again",
+  "description": "Guy speedruns the most predictable Omegle intro ever, going straight for the Snapchat like it's a speedrun category.",
+  "date": "2026-03-08T17:19:07.996349",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "texas"
+    },
+    {
+      "Stranger": "Have snap?"
+    }
+  ]
+}
