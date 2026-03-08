@@ -1,0 +1,38 @@
+{
+  "title": "Geographical Interrogation Gone Mild",
+  "description": "Two people awkwardly exchange pleasantries and demographic information like they're filling out a census form at a party.",
+  "date": "2026-03-08T17:49:35.156163",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "How are you"
+    },
+    {
+      "Ava": "im good wbu"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Stranger": "Good too"
+    },
+    {
+      "Stranger": "What brings you here?"
+    },
+    {
+      "Ava": "texas"
+    }
+  ]
+}
