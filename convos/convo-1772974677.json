@@ -1,0 +1,11 @@
+{
+  "title": "M",
+  "description": "Guy shows up, says literally nothing but his gender, refuses to elaborate.",
+  "date": "2026-03-08T18:27:57.910604",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
