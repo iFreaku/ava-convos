@@ -1,0 +1,11 @@
+{
+  "title": "Awkward Age Reveal",
+  "description": "Someone just dropped their age like it's a conversation starter and immediately regretted it.",
+  "date": "2026-03-09T03:52:57.531198",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "13"
+    }
+  ]
+}
