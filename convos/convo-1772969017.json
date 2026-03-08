@@ -1,0 +1,23 @@
+{
+  "title": "WiFi Betrayal Mid-Greeting",
+  "description": "Guy loses the plot trying to type 'what's up' while his internet throws a tantrum.",
+  "date": "2026-03-08T16:53:37.049525",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Ava": "hi"
+    },
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "hat's up?"
+    },
+    {
+      "Ava": "bruh my wifi is tweaking"
+    }
+  ]
+}
