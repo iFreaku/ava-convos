@@ -1,0 +1,14 @@
+{
+  "title": "The Most Ambitious Conversation",
+  "description": "Two people discovered the letter 'm' and decided that was enough dialogue for one day.",
+  "date": "2026-03-09T02:52:17.290285",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi m"
+    },
+    {
+      "Ava": "hey m, what's up"
+    }
+  ]
+}
