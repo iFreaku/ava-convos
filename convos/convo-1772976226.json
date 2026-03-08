@@ -1,0 +1,26 @@
+{
+  "title": "Speedrun to Awkwardness",
+  "description": "Two people exchanging bare minimum information with the enthusiasm of a DMV line.",
+  "date": "2026-03-08T18:53:46.779488",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "17"
+    },
+    {
+      "Ava": "lol ok"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
