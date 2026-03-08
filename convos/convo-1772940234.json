@@ -1,0 +1,23 @@
+{
+  "title": "Quick Gender Check Chat",
+  "description": "Two strangers exchange brief introductions and ask each other's gender on Omegle.",
+  "date": "2026-03-08T08:53:54.179372",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "hey 👋"
+    },
+    {
+      "Stranger": "M or f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "m hbu"
+    }
+  ]
+}
