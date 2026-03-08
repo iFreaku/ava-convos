@@ -1,0 +1,20 @@
+{
+  "title": "Age Check Casual Chat",
+  "description": "Two strangers quickly exchange basic info on Omegle with minimal conversation.",
+  "date": "2026-03-08T08:11:23.610414",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here too"
+    },
+    {
+      "Stranger": "17 u ?"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
