@@ -1,0 +1,20 @@
+{
+  "title": "Age Gap Stranger Chat",
+  "description": "Random encounter between a 19-year-old woman and a 37-year-old man on Omegle.",
+  "date": "2026-03-08T14:26:45.316966",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "37"
+    },
+    {
+      "Ava": "Ava: 19"
+    }
+  ]
+}
