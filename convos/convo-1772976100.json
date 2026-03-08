@@ -1,0 +1,26 @@
+{
+  "title": "Same Age, Awkward Silence",
+  "description": "Two 19-year-olds discover they're the same age then immediately run out of things to say.",
+  "date": "2026-03-08T18:51:40.015418",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "hey m"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "same"
+    },
+    {
+      "Stranger": "wyd"
+    }
+  ]
+}
