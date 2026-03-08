@@ -1,0 +1,20 @@
+{
+  "title": "The Speedrun Interrogation",
+  "description": "Stranger cuts straight to the demographic questionnaire like they're filling out a census form.",
+  "date": "2026-03-08T17:19:30.618889",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi m"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
