@@ -1,0 +1,23 @@
+{
+  "title": "Taco Priority Over Pleasantries",
+  "description": "Girl speedruns the getting-to-know-you phase by immediately pivoting to her more important life goal: acquiring tacos.",
+  "date": "2026-03-08T17:12:26.158359",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Hi hru"
+    },
+    {
+      "Ava": "omw to get some tacos"
+    },
+    {
+      "Ava": "wbu"
+    }
+  ]
+}
