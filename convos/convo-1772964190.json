@@ -1,0 +1,14 @@
+{
+  "title": "Awkward Hello",
+  "description": "Brief mysterious introduction that goes nowhere fast.",
+  "date": "2026-03-08T15:33:10.299756",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    }
+  ]
+}
