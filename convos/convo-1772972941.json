@@ -1,0 +1,38 @@
+{
+  "title": "Snap-less Rejection Speedrun",
+  "description": "Two bored strangers attempt the world's most predictable connection ritual before hitting the inevitable dead end.",
+  "date": "2026-03-08T17:59:01.600785",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "21 wyd"
+    },
+    {
+      "Ava": "Just chillin wbu"
+    },
+    {
+      "Stranger": "Just in bed bored"
+    },
+    {
+      "Ava": "Same here kinda"
+    },
+    {
+      "Stranger": "U got snap?"
+    },
+    {
+      "Ava": "nah i dont use that"
+    }
+  ]
+}
