@@ -1,0 +1,20 @@
+{
+  "title": "Awkward Age Gap Speedrun",
+  "description": "Two strangers discover they're technically in different legal categories and the conversation dies instantly.",
+  "date": "2026-03-08T18:28:57.623120",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "16 here"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
