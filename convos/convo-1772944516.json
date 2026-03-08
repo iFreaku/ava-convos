@@ -1,0 +1,23 @@
+{
+  "title": "Brief Texas Introduction",
+  "description": "Two strangers exchange quick demographic details in a minimal opening exchange.",
+  "date": "2026-03-08T10:05:16.762824",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "from?"
+    },
+    {
+      "Ava": "texas"
+    }
+  ]
+}
