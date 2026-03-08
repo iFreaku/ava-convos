@@ -216,6 +216,16 @@
       border: 1px solid rgba(236,72,153,0.15);
       border-bottom-right-radius: 4px; color: var(--text);
     }
+    .bubble-gif {
+      padding: 4px;
+      background: transparent;
+      border: none;
+      box-shadow: none;
+    }
+    .bubble-gif img {
+      max-width: 200px; border-radius: 12px;
+      display: block;
+    }
 
     .empty { grid-column: 1 / -1; text-align: center; padding: 64px 16px; }
     .empty .emoji { font-size: 3rem; display: block; margin-bottom: 12px; }
@@ -402,7 +412,10 @@
           c.meta?.title?.toLowerCase().includes(q) ||
           c.meta?.description?.toLowerCase().includes(q) ||
           c.meta?.model?.toLowerCase().includes(q) ||
-          c.meta?.messages?.some(m => Object.values(m)[0]?.toLowerCase().includes(q))
+          c.meta?.messages?.some(m => {
+            const v = Object.values(m)[0];
+            return typeof v === 'string' && v.toLowerCase().includes(q);
+          })
         )
       : [...allConvos];
     page = 0; fullyLoaded = false; loading = false;
@@ -428,7 +441,6 @@
     document.getElementById('modalTitle').textContent = meta.title || 'Conversation';
     document.getElementById('modalDesc').textContent  = meta.description || '';
 
-    // build modal meta pills (date + model)
     const metaEl = document.getElementById('modalMeta');
     metaEl.innerHTML = '';
     if (meta.date) {
@@ -442,15 +454,26 @@
     const body = document.getElementById('modalBody');
     body.innerHTML = '';
     (meta.messages || []).forEach(msgObj => {
-      const [[sender, text]] = Object.entries(msgObj);
+      const [[sender, content]] = Object.entries(msgObj);
       const isAI  = sender === 'Ava';
       const row   = document.createElement('div');
       row.className = `bubble-row ${isAI ? 'ai' : ''}`;
+
+      // ── gif or text bubble ────────────────────────────────────────────────
+      const isGif = content && typeof content === 'object' && content.type === 'gif';
+      const bubbleClass = isGif
+        ? `bubble ${isAI ? 'bubble-ai' : 'bubble-stranger'} bubble-gif`
+        : `bubble ${isAI ? 'bubble-ai' : 'bubble-stranger'}`;
+      const bubbleHTML = isGif
+        ? `<img src="${esc(content.url)}" alt="gif" loading="lazy" />`
+        : esc(content);
+
       row.innerHTML = `
         <div class="bubble-avatar ${isAI ? 'avatar-ai' : 'avatar-stranger'}">${isAI ? 'AVA' : 'S'}</div>
-        <div class="bubble ${isAI ? 'bubble-ai' : 'bubble-stranger'}">${esc(text)}</div>`;
+        <div class="${bubbleClass}">${bubbleHTML}</div>`;
       body.appendChild(row);
     });
+
     document.getElementById('modalBg').classList.add('open');
     document.body.style.overflow = 'hidden';
   }
