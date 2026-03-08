@@ -1,0 +1,62 @@
+{
+  "title": "Age Gap Snap Rejection",
+  "description": "29-year-old guy tries to flirt with 19-year-old girl who calls him out for being old, he gets defensive and leaves.",
+  "date": "2026-03-08T11:39:20.451894",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Hey age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "29"
+    },
+    {
+      "Stranger": "Hru?"
+    },
+    {
+      "Ava": "omg old af"
+    },
+    {
+      "Ava": "im good hbu"
+    },
+    {
+      "Stranger": "Wondering if you’re gonna give me your snap for that rude comment 😂"
+    },
+    {
+      "Ava": "lmao no way"
+    },
+    {
+      "Ava": "i dont have snap"
+    },
+    {
+      "Stranger": "Damn, no daddy issues for you huh? 💀"
+    },
+    {
+      "Stranger": "Ahhh so you’re not 19"
+    },
+    {
+      "Ava": "lol what does that even"
+    },
+    {
+      "Ava": "mean"
+    },
+    {
+      "Ava": "and yeah im 19 wtf"
+    },
+    {
+      "Ava": "u thinkin"
+    },
+    {
+      "Stranger": "That you’re lying 😂 anyway, later"
+    }
+  ]
+}
