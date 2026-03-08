@@ -1,0 +1,20 @@
+{
+  "title": "Creep Gets Shut Down Fast",
+  "description": "Stranger opens with an immediate inappropriate question and gets instantly rejected with humor and disgust.",
+  "date": "2026-03-08T14:26:15.511615",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi m"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "U horny?"
+    },
+    {
+      "Ava": "omg no wtf 💀"
+    }
+  ]
+}
