@@ -1,0 +1,35 @@
+{
+  "title": "Chill Texas Morning Vibes",
+  "description": "Two strangers exchange lazy morning pleasantries with genuine, laid-back energy.",
+  "date": "2026-03-08T14:18:23.524281",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F, what's up"
+    },
+    {
+      "Stranger": "Just woke up"
+    },
+    {
+      "Stranger": "How about you?"
+    },
+    {
+      "Ava": "Just chilling, scrolling thru tiktok"
+    },
+    {
+      "Ava": "fr"
+    },
+    {
+      "Stranger": "Where are you from?"
+    },
+    {
+      "Ava": "Texas, you know the vibes"
+    }
+  ]
+}
