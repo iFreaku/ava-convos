@@ -1,0 +1,11 @@
+{
+  "title": "The Least Helpful Introduction",
+  "description": "Man provides maximum confusion with zero context or effort.",
+  "date": "2026-03-08T19:01:41.762482",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
