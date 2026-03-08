@@ -218,13 +218,12 @@
     }
     .bubble-gif {
       padding: 4px;
-      background: transparent;
-      border: none;
-      box-shadow: none;
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
     }
     .bubble-gif img {
-      max-width: 200px; border-radius: 12px;
-      display: block;
+      max-width: 200px; border-radius: 12px; display: block;
     }
 
     .empty { grid-column: 1 / -1; text-align: center; padding: 64px 16px; }
@@ -302,19 +301,15 @@
       const res   = await fetch(API_LIST);
       const files = await res.json();
       if (!Array.isArray(files)) throw new Error('No convos folder found or repo is private without token');
+
       const jsonFiles = files
         .filter(f => f.name.endsWith('.json'))
         .sort((a, b) => b.name.localeCompare(a.name));
 
-      const firstBatch = jsonFiles.slice(0, PAGE_SIZE);
-      const rest       = jsonFiles.slice(PAGE_SIZE);
-      const metas      = await Promise.all(firstBatch.map(f => loadMeta(f.download_url)));
+      // ── load ALL metadata upfront so stats + search are always accurate ──
+      allConvos = await Promise.all(jsonFiles.map(f => loadMeta(f.download_url)));
+      filtered  = [...allConvos];
 
-      allConvos = [
-        ...metas,
-        ...rest.map(f => ({ meta: null, url: f.download_url }))
-      ];
-      filtered = [...allConvos];
       updateStats();
       document.getElementById('grid').innerHTML = '';
       renderPage();
@@ -339,23 +334,13 @@
     const slice = filtered.slice(start, start + PAGE_SIZE);
     if (!slice.length) { loading = false; return; }
 
-    Promise.all(slice.map(item =>
-      item.meta ? Promise.resolve(item) : loadMeta(item.url)
-    )).then(items => {
-      items.forEach(item => {
-        const idx = allConvos.findIndex(c => c.url === item.url);
-        if (idx !== -1) allConvos[idx] = item;
-        const fi = filtered.findIndex(c => c.url === item.url);
-        if (fi  !== -1) filtered[fi]  = item;
-      });
-      const grid = document.getElementById('grid');
-      if (page === 0) grid.innerHTML = '';
-      items.forEach((item, i) => renderCard(item, start + i));
-      updateStats();
-      page++;
-      if (page * PAGE_SIZE >= filtered.length) fullyLoaded = true;
-      loading = false;
-    });
+    // all items already have meta loaded — just render DOM
+    const grid = document.getElementById('grid');
+    if (page === 0) grid.innerHTML = '';
+    slice.forEach((item, i) => renderCard(item, start + i));
+    page++;
+    if (page * PAGE_SIZE >= filtered.length) fullyLoaded = true;
+    loading = false;
   }
 
   function renderCard({ meta, url }, idx) {
@@ -397,11 +382,10 @@
   }
 
   function updateStats() {
-    const loaded = allConvos.filter(c => c.meta);
-    const total  = allConvos.length;
-    const msgs   = loaded.reduce((a, c) => a + (c.meta?.messages?.length || 0), 0);
+    const total = allConvos.length;
+    const msgs  = allConvos.reduce((a, c) => a + (c.meta?.messages?.length || 0), 0);
     document.getElementById('statTotal').textContent = total;
-    document.getElementById('statMsgs').textContent  = msgs + '+';
+    document.getElementById('statMsgs').textContent  = msgs.toLocaleString();
     document.getElementById('navCount').textContent  = `${total} conversations`;
   }
 
@@ -459,7 +443,6 @@
       const row   = document.createElement('div');
       row.className = `bubble-row ${isAI ? 'ai' : ''}`;
 
-      // ── gif or text bubble ────────────────────────────────────────────────
       const isGif = content && typeof content === 'object' && content.type === 'gif';
       const bubbleClass = isGif
         ? `bubble ${isAI ? 'bubble-ai' : 'bubble-stranger'} bubble-gif`
