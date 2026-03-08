@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ava's Conversations — AI Chat Archive</title>
+  <meta name="description" content="Browse all conversations Ava the AI had with random strangers on OmegleApp. Search, read and explore every chat." />
+  <meta name="keywords" content="Ava AI, Omegle conversations, AI chat archive, random stranger chats" />
+  <meta property="og:title" content="Ava's Conversations" />
+  <meta property="og:description" content="Every convo Ava had with a random stranger, archived." />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #ede8f5;
+      --bg2:       #e2daf0;
+      --surface:   #f7f4fe;
+      --clay-sh:   8px 8px 20px rgba(160,140,200,0.28), -4px -4px 12px rgba(255,255,255,0.75);
+      --accent:    #8b5cf6;
+      --accent2:   #ec4899;
+      --text:      #2d1f4e;
+      --muted:     #8878aa;
+      --radius:    20px;
+      --font:      'Inter', system-ui, sans-serif;
+    }
+
+    body {
+      font-family: var(--font);
+      background: linear-gradient(135deg, var(--bg) 0%, #dde8f5 50%, var(--bg2) 100%);
+      min-height: 100vh;
+      color: var(--text);
+    }
+
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(237,232,245,0.75);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(255,255,255,0.5);
+      padding: 0 clamp(16px, 5vw, 64px);
+      display: flex; align-items: center; gap: 16px; height: 64px;
+    }
+    .nav-logo {
+      font-size: 1.2rem; font-weight: 700;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; letter-spacing: -0.5px;
+    }
+    .nav-logo span { font-weight: 400; opacity: 0.7; }
+    .nav-count { margin-left: auto; font-size: 0.8rem; color: var(--muted); font-weight: 500; }
+
+    .hero {
+      text-align: center;
+      padding: clamp(40px, 8vw, 80px) clamp(16px, 5vw, 64px) 32px;
+    }
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 700; letter-spacing: -1.5px; line-height: 1.15;
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; margin-bottom: 12px;
+    }
+    .hero p {
+      font-size: clamp(0.95rem, 2vw, 1.1rem);
+      color: var(--muted); max-width: 480px; margin: 0 auto 32px; line-height: 1.6;
+    }
+
+    .search-wrap {
+      max-width: 540px; margin: 0 auto;
+      background: var(--surface);
+      box-shadow: var(--clay-sh);
+      border-radius: 50px;
+      border: 1.5px solid rgba(255,255,255,0.8);
+      display: flex; align-items: center; gap: 10px;
+      padding: 6px 6px 6px 20px;
+      transition: box-shadow 0.2s;
+    }
+    .search-wrap:focus-within {
+      box-shadow: 0 0 0 3px rgba(139,92,246,0.18), var(--clay-sh);
+    }
+    .search-wrap input {
+      border: none; background: transparent; outline: none;
+      font-family: var(--font); font-size: 0.95rem; color: var(--text); flex: 1; min-width: 0;
+    }
+    .search-wrap input::placeholder { color: var(--muted); }
+    .search-wrap button {
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border: none; border-radius: 50px; padding: 10px 20px;
+      color: white; font-weight: 600; font-size: 0.85rem;
+      cursor: pointer; white-space: nowrap; transition: opacity 0.2s;
+    }
+    .search-wrap button:hover { opacity: 0.88; }
+
+    .stats {
+      display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;
+      padding: 28px clamp(16px, 5vw, 64px) 0;
+    }
+    .stat-pill {
+      background: var(--surface);
+      box-shadow: var(--clay-sh);
+      border: 1.5px solid rgba(255,255,255,0.8);
+      border-radius: 50px; padding: 8px 20px;
+      font-size: 0.82rem; font-weight: 600; color: var(--muted);
+    }
+    .stat-pill strong { color: var(--text); }
+
+    .grid-wrap {
+      padding: 32px clamp(16px, 5vw, 64px) 64px;
+      max-width: 1400px; margin: 0 auto;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: var(--surface);
+      box-shadow: var(--clay-sh);
+      border: 1.5px solid rgba(255,255,255,0.85);
+      border-radius: var(--radius); padding: 24px;
+      cursor: pointer; transition: transform 0.18s, box-shadow 0.18s;
+      display: flex; flex-direction: column; gap: 12px;
+      position: relative; overflow: hidden;
+    }
+    .card::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      opacity: 0; transition: opacity 0.2s;
+    }
+    .card:hover { transform: translateY(-4px); box-shadow: 12px 16px 32px rgba(139,92,246,0.18), -4px -4px 16px rgba(255,255,255,0.8); }
+    .card:hover::before { opacity: 1; }
+
+    .card-meta { display: flex; align-items: center; gap: 8px; font-size: 0.75rem; color: var(--muted); font-weight: 500; }
+    .card-num {
+      background: linear-gradient(135deg, rgba(139,92,246,0.12), rgba(236,72,153,0.1));
+      border: 1px solid rgba(139,92,246,0.2);
+      border-radius: 50px; padding: 2px 10px;
+      font-weight: 700; color: var(--accent); font-size: 0.72rem;
+    }
+    .card-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--muted); }
+    .card h3 { font-size: 1rem; font-weight: 700; line-height: 1.4; color: var(--text); letter-spacing: -0.3px; }
+    .card p {
+      font-size: 0.85rem; color: var(--muted); line-height: 1.55;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .card-footer { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+    .card-badge { font-size: 0.72rem; font-weight: 600; padding: 3px 10px; border-radius: 50px; }
+    .badge-msgs { background: rgba(139,92,246,0.1); color: var(--accent); }
+    .badge-date { background: rgba(0,0,0,0.04); color: var(--muted); margin-left: auto; }
+
+    .skeleton { pointer-events: none; }
+    .skel-line {
+      border-radius: 8px;
+      background: linear-gradient(90deg, rgba(139,92,246,0.08) 0%, rgba(139,92,246,0.15) 50%, rgba(139,92,246,0.08) 100%);
+      background-size: 200% 100%; animation: shimmer 1.4s infinite;
+    }
+    @keyframes shimmer { to { background-position: -200% 0; } }
+
+    .modal-bg {
+      display: none; position: fixed; inset: 0; z-index: 200;
+      background: rgba(30,15,60,0.45); backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      align-items: center; justify-content: center; padding: 16px;
+    }
+    .modal-bg.open { display: flex; }
+    .modal {
+      background: var(--surface);
+      box-shadow: 20px 20px 60px rgba(139,92,246,0.25), -8px -8px 30px rgba(255,255,255,0.6);
+      border: 1.5px solid rgba(255,255,255,0.9);
+      border-radius: var(--radius); width: 100%; max-width: 680px;
+      max-height: 88vh; display: flex; flex-direction: column; overflow: hidden;
+    }
+    .modal-header {
+      padding: 24px 24px 16px; border-bottom: 1px solid rgba(139,92,246,0.1);
+      display: flex; align-items: flex-start; gap: 12px;
+    }
+    .modal-header-text { flex: 1; min-width: 0; }
+    .modal-header h2 { font-size: 1.1rem; font-weight: 700; line-height: 1.35; letter-spacing: -0.3px; }
+    .modal-header p { font-size: 0.82rem; color: var(--muted); margin-top: 4px; line-height: 1.5; }
+    .modal-close {
+      background: rgba(139,92,246,0.08); border: none; border-radius: 50%;
+      width: 36px; height: 36px; cursor: pointer; font-size: 1.1rem;
+      color: var(--muted); flex-shrink: 0; transition: background 0.15s;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .modal-close:hover { background: rgba(139,92,246,0.15); color: var(--text); }
+    .modal-body { overflow-y: auto; padding: 20px 24px; display: flex; flex-direction: column; gap: 12px; }
+
+    .bubble-row { display: flex; gap: 10px; align-items: flex-end; }
+    .bubble-row.ai { flex-direction: row-reverse; }
+    .bubble-avatar {
+      width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.75rem; font-weight: 700;
+    }
+    .avatar-stranger { background: linear-gradient(135deg, #a78bfa, #7c3aed); color: white; }
+    .avatar-ai { background: linear-gradient(135deg, #f472b6, #ec4899); color: white; }
+    .bubble { max-width: 72%; padding: 10px 14px; font-size: 0.88rem; line-height: 1.5; border-radius: 18px; }
+    .bubble-stranger {
+      background: white;
+      box-shadow: 4px 4px 12px rgba(139,92,246,0.1), -2px -2px 8px rgba(255,255,255,0.8);
+      border: 1px solid rgba(139,92,246,0.1);
+      border-bottom-left-radius: 4px; color: var(--text);
+    }
+    .bubble-ai {
+      background: linear-gradient(135deg, rgba(139,92,246,0.12), rgba(236,72,153,0.1));
+      box-shadow: 4px 4px 12px rgba(236,72,153,0.1), -2px -2px 8px rgba(255,255,255,0.6);
+      border: 1px solid rgba(236,72,153,0.15);
+      border-bottom-right-radius: 4px; color: var(--text);
+    }
+
+    .empty { grid-column: 1 / -1; text-align: center; padding: 64px 16px; }
+    .empty .emoji { font-size: 3rem; display: block; margin-bottom: 12px; }
+    .empty h3 { font-size: 1.2rem; font-weight: 700; margin-bottom: 8px; }
+    .empty p { color: var(--muted); font-size: 0.9rem; }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: rgba(139,92,246,0.25); border-radius: 10px; }
+
+    @media (max-width: 480px) {
+      .stats { gap: 10px; }
+      .modal { max-height: 92vh; }
+      .bubble { max-width: 85%; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">Ava <span>/ convos</span></div>
+  <div class="nav-count" id="navCount">loading...</div>
+</nav>
+
+<section class="hero">
+  <h1>Ava's Conversations</h1>
+  <p>Every chat Ava had with a random stranger on OmegleApp — archived and searchable.</p>
+  <div class="search-wrap">
+    <input type="search" id="searchInput" placeholder="Search by title, vibe, topic..." autocomplete="off" />
+    <button onclick="handleSearch()">Search</button>
+  </div>
+</section>
+
+<div class="stats" id="statsBar">
+  <div class="stat-pill"><strong id="statTotal">—</strong> convos</div>
+  <div class="stat-pill"><strong id="statMsgs">—</strong> total messages</div>
+</div>
+
+<div class="grid-wrap">
+  <div class="grid" id="grid"></div>
+</div>
+
+<div class="modal-bg" id="modalBg" onclick="closeModal(event)">
+  <div class="modal" id="modal">
+    <div class="modal-header">
+      <div class="modal-header-text">
+        <h2 id="modalTitle">—</h2>
+        <p id="modalDesc">—</p>
+      </div>
+      <button class="modal-close" onclick="closeModal()">&#x2715;</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<script>
+  const GITHUB_USER = "iFreaku";
+  const GITHUB_REPO = "ava-convos";
+  const BRANCH      = "main";
+  const API_LIST    = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/convos`;
+
+  let allConvos   = [];
+  let filtered    = [];
+  let page        = 0;
+  const PAGE_SIZE = 12;
+  let loading     = false;
+  let fullyLoaded = false;
+  let loadedData  = {};
+
+  async function init() {
+    renderSkeletons(PAGE_SIZE);
+    try {
+      const res   = await fetch(API_LIST);
+      const files = await res.json();
+      if (!Array.isArray(files)) throw new Error('No convos folder found or repo is private without token');
+      const jsonFiles = files
+        .filter(f => f.name.endsWith('.json'))
+        .sort((a, b) => b.name.localeCompare(a.name));
+
+      const firstBatch = jsonFiles.slice(0, PAGE_SIZE);
+      const rest       = jsonFiles.slice(PAGE_SIZE);
+      const metas      = await Promise.all(firstBatch.map(f => loadMeta(f.download_url)));
+
+      allConvos = [
+        ...metas,
+        ...rest.map(f => ({ meta: null, url: f.download_url }))
+      ];
+      filtered = [...allConvos];
+      updateStats();
+      document.getElementById('grid').innerHTML = '';
+      renderPage();
+    } catch (e) {
+      document.getElementById('grid').innerHTML =
+        `<div class="empty"><span class="emoji">&#x1F635;</span><h3>Couldn't load convos</h3><p>${e.message}</p></div>`;
+    }
+  }
+
+  async function loadMeta(url) {
+    if (loadedData[url]) return { meta: loadedData[url], url };
+    const res  = await fetch(url);
+    const data = await res.json();
+    loadedData[url] = data;
+    return { meta: data, url };
+  }
+
+  function renderPage() {
+    if (loading || fullyLoaded) return;
+    loading = true;
+    const start = page * PAGE_SIZE;
+    const slice = filtered.slice(start, start + PAGE_SIZE);
+    if (!slice.length) { loading = false; return; }
+
+    Promise.all(slice.map(item =>
+      item.meta ? Promise.resolve(item) : loadMeta(item.url)
+    )).then(items => {
+      items.forEach(item => {
+        const idx = allConvos.findIndex(c => c.url === item.url);
+        if (idx !== -1) allConvos[idx] = item;
+        const fi = filtered.findIndex(c => c.url === item.url);
+        if (fi  !== -1) filtered[fi]  = item;
+      });
+      const grid = document.getElementById('grid');
+      if (page === 0) grid.innerHTML = '';
+      items.forEach((item, i) => renderCard(item, start + i));
+      updateStats();
+      page++;
+      if (page * PAGE_SIZE >= filtered.length) fullyLoaded = true;
+      loading = false;
+    });
+  }
+
+  function renderCard({ meta, url }, idx) {
+    const grid = document.getElementById('grid');
+    const n    = idx + 1;
+    const msgs = meta?.messages?.length || 0;
+    const date = meta?.date ? new Date(meta.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—';
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-meta">
+        <span class="card-num">#${n}</span>
+        <span class="card-dot"></span>
+        <span>${date}</span>
+      </div>
+      <h3>${esc(meta?.title || 'Untitled Conversation')}</h3>
+      <p>${esc(meta?.description || 'No description.')}</p>
+      <div class="card-footer">
+        <span class="card-badge badge-msgs">&#x1F4AC; ${msgs} msgs</span>
+        <span class="card-badge badge-date">${date}</span>
+      </div>`;
+    card.onclick = () => openModal(meta, url);
+    grid.appendChild(card);
+  }
+
+  function renderSkeletons(n) {
+    const grid = document.getElementById('grid');
+    for (let i = 0; i < n; i++) {
+      grid.innerHTML += `
+        <div class="card skeleton">
+          <div class="skel-line" style="height:18px;width:60%;margin-bottom:8px"></div>
+          <div class="skel-line" style="height:22px;width:90%;margin-bottom:4px"></div>
+          <div class="skel-line" style="height:14px;width:75%"></div>
+          <div class="skel-line" style="height:14px;width:50%;margin-top:12px"></div>
+        </div>`;
+    }
+  }
+
+  function updateStats() {
+    const loaded = allConvos.filter(c => c.meta);
+    const total  = allConvos.length;
+    const msgs   = loaded.reduce((a, c) => a + (c.meta?.messages?.length || 0), 0);
+    document.getElementById('statTotal').textContent = total;
+    document.getElementById('statMsgs').textContent  = msgs + '+';
+    document.getElementById('navCount').textContent  = `${total} conversations`;
+  }
+
+  function handleSearch() {
+    const q = document.getElementById('searchInput').value.toLowerCase().trim();
+    filtered = q
+      ? allConvos.filter(c =>
+          c.meta?.title?.toLowerCase().includes(q) ||
+          c.meta?.description?.toLowerCase().includes(q) ||
+          c.meta?.messages?.some(m => Object.values(m)[0]?.toLowerCase().includes(q))
+        )
+      : [...allConvos];
+    page = 0; fullyLoaded = false; loading = false;
+    document.getElementById('grid').innerHTML = '';
+    if (!filtered.length) {
+      document.getElementById('grid').innerHTML =
+        `<div class="empty"><span class="emoji">&#x1F50D;</span><h3>No results for "${q}"</h3><p>Try different keywords</p></div>`;
+      return;
+    }
+    renderPage();
+  }
+
+  document.getElementById('searchInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter') handleSearch();
+  });
+
+  window.addEventListener('scroll', () => {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 400) renderPage();
+  });
+
+  function openModal(meta, url) {
+    if (!meta) { loadMeta(url).then(item => openModal(item.meta, url)); return; }
+    document.getElementById('modalTitle').textContent = meta.title || 'Conversation';
+    document.getElementById('modalDesc').textContent  = meta.description || '';
+    const body = document.getElementById('modalBody');
+    body.innerHTML = '';
+    (meta.messages || []).forEach(msgObj => {
+      const [[sender, text]] = Object.entries(msgObj);
+      const isAI  = sender === 'Ava';
+      const row   = document.createElement('div');
+      row.className = `bubble-row ${isAI ? 'ai' : ''}`;
+      row.innerHTML = `
+        <div class="bubble-avatar ${isAI ? 'avatar-ai' : 'avatar-stranger'}">${isAI ? 'AVA' : 'S'}</div>
+        <div class="bubble ${isAI ? 'bubble-ai' : 'bubble-stranger'}">${esc(text)}</div>`;
+      body.appendChild(row);
+    });
+    document.getElementById('modalBg').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal(e) {
+    if (e && e.target !== document.getElementById('modalBg')) return;
+    document.getElementById('modalBg').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+  function esc(str) {
+    return String(str || '')
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  init();
+</script>
+</body>
+</html>
