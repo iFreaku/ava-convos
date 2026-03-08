@@ -1,0 +1,14 @@
+{
+  "title": "The Essential Question",
+  "description": "Stranger says hello, you immediately cut to the chase with the most important interrogation of our time.",
+  "date": "2026-03-09T01:10:56.393133",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "f or m"
+    }
+  ]
+}
