@@ -1,0 +1,56 @@
+{
+  "title": "Casual Chat, Different Vibes",
+  "description": "Two strangers exchange pleasantries before hitting a wall over Snapchat preferences.",
+  "date": "2026-03-08T15:40:10.213315",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Hi m 30"
+    },
+    {
+      "Ava": "hey there"
+    },
+    {
+      "Stranger": "How are yu"
+    },
+    {
+      "Ava": "im good wbu"
+    },
+    {
+      "Stranger": "I'm good"
+    },
+    {
+      "Ava": "that's good to hear"
+    },
+    {
+      "Stranger": "Here for what"
+    },
+    {
+      "Ava": "just chilling tbh"
+    },
+    {
+      "Ava": "hbu"
+    },
+    {
+      "Stranger": "Chatting and snap"
+    },
+    {
+      "Ava": "Snap? Nah I don't really"
+    },
+    {
+      "Ava": "use that app fr"
+    },
+    {
+      "Stranger": "Ok"
+    },
+    {
+      "Ava": "What else is up"
+    }
+  ]
+}
