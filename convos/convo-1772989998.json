@@ -1,0 +1,20 @@
+{
+  "title": "The World's Shortest Interview",
+  "description": "Guy asks two questions and gets two answers before presumably disconnecting to find someone more interesting.",
+  "date": "2026-03-08T22:43:18.421706",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
