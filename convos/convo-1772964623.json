@@ -1,0 +1,14 @@
+{
+  "title": "Brief M Hello",
+  "description": "Minimal opening exchange with little engagement or direction.",
+  "date": "2026-03-08T15:40:23.355110",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    }
+  ]
+}
