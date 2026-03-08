@@ -1,0 +1,26 @@
+{
+  "title": "Texas Girl Speedrun Any%",
+  "description": "Guy treats interrogation like a DMV form while girl casually drops her location to a complete stranger.",
+  "date": "2026-03-08T19:01:10.792326",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "texas wbu"
+    }
+  ]
+}
