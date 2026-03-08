@@ -1,0 +1,47 @@
+{
+  "title": "Canadian Boredom Meets Texas Vibes",
+  "description": "Two bored strangers awkwardly exchange basic info and ask what they're doing like they're filling out a DMV form.",
+  "date": "2026-03-08T18:27:45.648597",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "Canada"
+    },
+    {
+      "Stranger": "What brings you here"
+    },
+    {
+      "Ava": "just bored tbh wbu"
+    },
+    {
+      "Stranger": "Boredd too"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Stranger": "?"
+    }
+  ]
+}
