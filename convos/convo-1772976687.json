@@ -1,0 +1,11 @@
+{
+  "title": "M stands for Mysterious",
+  "description": "A man of few words drops the letter M and dips before anything interesting happens.",
+  "date": "2026-03-08T19:01:27.646607",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
