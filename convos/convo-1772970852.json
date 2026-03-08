@@ -1,0 +1,11 @@
+{
+  "title": "Shortest Introduction Ever",
+  "description": "Guy shows up, says literally nothing but his gender, then probably vanishes into the void.",
+  "date": "2026-03-08T17:24:12.013972",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
