@@ -75,11 +75,12 @@ Reader discretion is advised. You have been warned.
 | Layer | What |
 |---|---|
 | **AI Agent** | Python + Flask backend |
+| **AI Provider** | [Pollinations.ai](https://pollinations.ai) — free, uncensored model API |
 | **Browser Automation** | Tampermonkey userscript on Chrome |
 | **Model** | Various (see `model` field per convo) |
 | **Storage** | GitHub API — auto-commit per session |
 | **Frontend** | Vanilla HTML/CSS/JS — no frameworks |
-| **Hosting** | GitHub Pages |
+| **Hosting** | GitHub Pages / Render |
 
 ---
 

@@ -147,10 +147,11 @@
       font-size: 0.85rem; color: var(--muted); line-height: 1.55;
       display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
     }
-    .card-footer { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+    .card-footer { display: flex; align-items: center; gap: 6px; margin-top: 4px; flex-wrap: wrap; }
     .card-badge { font-size: 0.72rem; font-weight: 600; padding: 3px 10px; border-radius: 50px; }
-    .badge-msgs { background: rgba(139,92,246,0.1); color: var(--accent); }
-    .badge-date { background: rgba(0,0,0,0.04); color: var(--muted); margin-left: auto; }
+    .badge-msgs  { background: rgba(139,92,246,0.1); color: var(--accent); }
+    .badge-model { background: rgba(236,72,153,0.1); color: #be185d; }
+    .badge-date  { background: rgba(0,0,0,0.04); color: var(--muted); margin-left: auto; }
 
     .skeleton { pointer-events: none; }
     .skel-line {
@@ -181,6 +182,9 @@
     .modal-header-text { flex: 1; min-width: 0; }
     .modal-header h2 { font-size: 1.1rem; font-weight: 700; line-height: 1.35; letter-spacing: -0.3px; }
     .modal-header p { font-size: 0.82rem; color: var(--muted); margin-top: 4px; line-height: 1.5; }
+    .modal-meta {
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 10px;
+    }
     .modal-close {
       background: rgba(139,92,246,0.08); border: none; border-radius: 50%;
       width: 36px; height: 36px; cursor: pointer; font-size: 1.1rem;
@@ -260,6 +264,7 @@
       <div class="modal-header-text">
         <h2 id="modalTitle">—</h2>
         <p id="modalDesc">—</p>
+        <div class="modal-meta" id="modalMeta"></div>
       </div>
       <button class="modal-close" onclick="closeModal()">&#x2715;</button>
     </div>
@@ -344,11 +349,12 @@
   }
 
   function renderCard({ meta, url }, idx) {
-    const grid = document.getElementById('grid');
-    const n    = idx + 1;
-    const msgs = meta?.messages?.length || 0;
-    const date = meta?.date ? new Date(meta.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—';
-    const card = document.createElement('div');
+    const grid  = document.getElementById('grid');
+    const n     = idx + 1;
+    const msgs  = meta?.messages?.length || 0;
+    const date  = meta?.date ? new Date(meta.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—';
+    const model = meta?.model ? `&#x1F916; ${esc(meta.model)}` : '';
+    const card  = document.createElement('div');
     card.className = 'card';
     card.innerHTML = `
       <div class="card-meta">
@@ -360,6 +366,7 @@
       <p>${esc(meta?.description || 'No description.')}</p>
       <div class="card-footer">
         <span class="card-badge badge-msgs">&#x1F4AC; ${msgs} msgs</span>
+        ${model ? `<span class="card-badge badge-model">${model}</span>` : ''}
         <span class="card-badge badge-date">${date}</span>
       </div>`;
     card.onclick = () => openModal(meta, url);
@@ -394,6 +401,7 @@
       ? allConvos.filter(c =>
           c.meta?.title?.toLowerCase().includes(q) ||
           c.meta?.description?.toLowerCase().includes(q) ||
+          c.meta?.model?.toLowerCase().includes(q) ||
           c.meta?.messages?.some(m => Object.values(m)[0]?.toLowerCase().includes(q))
         )
       : [...allConvos];
@@ -419,6 +427,18 @@
     if (!meta) { loadMeta(url).then(item => openModal(item.meta, url)); return; }
     document.getElementById('modalTitle').textContent = meta.title || 'Conversation';
     document.getElementById('modalDesc').textContent  = meta.description || '';
+
+    // build modal meta pills (date + model)
+    const metaEl = document.getElementById('modalMeta');
+    metaEl.innerHTML = '';
+    if (meta.date) {
+      const d = new Date(meta.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+      metaEl.innerHTML += `<span class="card-badge badge-date">&#x1F4C5; ${d}</span>`;
+    }
+    if (meta.model) {
+      metaEl.innerHTML += `<span class="card-badge badge-model">&#x1F916; ${esc(meta.model)}</span>`;
+    }
+
     const body = document.getElementById('modalBody');
     body.innerHTML = '';
     (meta.messages || []).forEach(msgObj => {
