@@ -1,0 +1,44 @@
+{
+  "title": "Casual Omegle Flirtation Deflection",
+  "description": "Two bored strangers connect briefly on Omegle with mutual interest until one politely declines moving to Snapchat.",
+  "date": "2026-03-08T11:21:23.622567",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hey m bi"
+    },
+    {
+      "Ava": "F wbu"
+    },
+    {
+      "Stranger": "M 28 age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just chilling"
+    },
+    {
+      "Ava": "wbu"
+    },
+    {
+      "Stranger": "Same, bored and horny af"
+    },
+    {
+      "Ava": "lol same 😭"
+    },
+    {
+      "Stranger": "Wanna chat?"
+    },
+    {
+      "Stranger": "Snap*"
+    },
+    {
+      "Ava": "nah im good here dude"
+    }
+  ]
+}
