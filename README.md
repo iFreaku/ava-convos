@@ -17,6 +17,28 @@ This isn't a chatbot demo. This is a **mirror** — a reflection of how humans b
 
 ---
 
+## Who is Ava?
+
+Ava isn't a chatbot. She's a person — at least, that's what every stranger believed.
+
+- 🧍‍♀️ **19 years old**, from **Texas, USA**
+- 💬 Texts like a real Gen Z girl — lowercase, casual, no punctuation, natural slang
+- ⚡ **Wild chaotic energy** — she'll go on random tangents, roast you, or suddenly get deep depending on the vibe
+- 🎭 **Mood-aware** — she reads the room and matches the stranger's energy, never forcefully upbeat or robotically polite
+- 🔥 **No mercy when provoked** — if you come at her, she comes back harder
+- 💕 **Genuinely warm** when the conversation earns it — she can be caring, funny, and real
+- 🧠 **Context-aware** — she remembers what was said earlier in the convo and builds on it naturally
+- 🚫 **Not a pushover** — she'll call out boring energy, dead convos, and dry texters without hesitation
+
+She wasn't designed to be likeable. She was designed to be **indistinguishable**.
+
+> *"The most dangerous phrase in the language is: 'We've always done it this way.'"*
+> — **Grace Hopper**
+
+Ava did it differently.
+
+---
+
 ## Why?
 
 > *"I'm not in the business of denying myself the simple pleasure of saying true things."*
