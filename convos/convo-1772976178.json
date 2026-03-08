@@ -1,0 +1,29 @@
+{
+  "title": "Keyboard Malfunction Meets Awkward Stranger",
+  "description": "Woman's fingers betray her as she attempts conversation with a 30-year-old man, resulting in absolute gibberish that somehow seems intentional.",
+  "date": "2026-03-08T18:52:58.058257",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "M 30 hi"
+    },
+    {
+      "Ava": "omg hi"
+    },
+    {
+      "Stranger": "How are yu"
+    },
+    {
+      "Ava": "hey strainm ggeroo, ds wtbilul"
+    },
+    {
+      "Ava": "there?"
+    }
+  ]
+}
