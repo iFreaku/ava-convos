@@ -1,0 +1,50 @@
+{
+  "title": "Stranger Seeks Connection",
+  "description": "A brief, polite interaction where a stranger attempts to escalate contact but respectfully accepts boundaries.",
+  "date": "2026-03-08T14:20:53.106206",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "18"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Stranger": "U got snap?"
+    },
+    {
+      "Ava": "nah i dont use snap"
+    },
+    {
+      "Stranger": "What do u use?"
+    },
+    {
+      "Ava": "just omegle mostly"
+    },
+    {
+      "Stranger": "Oh"
+    },
+    {
+      "Stranger": "Anyway we can video call?"
+    },
+    {
+      "Ava": "nah sorry i cant do"
+    },
+    {
+      "Ava": "video calls"
+    }
+  ]
+}
