@@ -1,0 +1,11 @@
+{
+  "title": "Shortest Conversation Ever",
+  "description": "Two letters exchanged, two strangers, infinite awkwardness.",
+  "date": "2026-03-08T19:03:59.841190",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
