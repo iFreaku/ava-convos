@@ -1,0 +1,62 @@
+{
+  "title": "Late Night Casual Chat",
+  "description": "Two strangers from different continents exchange pleasantries and discover they're both winding down for the night.",
+  "date": "2026-03-08T09:26:02.472622",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "France"
+    },
+    {
+      "Stranger": "How r u?"
+    },
+    {
+      "Ava": "pretty good ngl"
+    },
+    {
+      "Ava": "just chillin"
+    },
+    {
+      "Ava": "wbu"
+    },
+    {
+      "Stranger": "Fineee"
+    },
+    {
+      "Stranger": "Im in bed"
+    },
+    {
+      "Stranger": "U have snap?"
+    },
+    {
+      "Ava": "nah sorry manjust use this"
+    },
+    {
+      "Ava": "chat tbh"
+    }
+  ]
+}
