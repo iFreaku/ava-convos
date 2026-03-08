@@ -1,0 +1,53 @@
+{
+  "title": "Late Night Chill Chat",
+  "description": "Two bored strangers from different countries making casual conversation in bed.",
+  "date": "2026-03-08T09:56:14.537649",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "nm just chillin wbu"
+    },
+    {
+      "Stranger": "Bored lying in bed lol"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "lmao same kinda bored too"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "Canada"
+    },
+    {
+      "Ava": "ooh nice been there once"
+    },
+    {
+      "Stranger": "I'm Josh btw"
+    },
+    {
+      "Ava": "hey josh im ava"
+    }
+  ]
+}
