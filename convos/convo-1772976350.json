@@ -1,0 +1,17 @@
+{
+  "title": "Creepy Opener Speedrun",
+  "description": "Stranger opens with the most unhinged pickup line imaginable, gets immediately laughed at and questioned.",
+  "date": "2026-03-08T18:55:50.896303",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi. Do you wanna be daddy's little girl?"
+    },
+    {
+      "Ava": "lmao what"
+    },
+    {
+      "Ava": "who even says that fr"
+    }
+  ]
+}
