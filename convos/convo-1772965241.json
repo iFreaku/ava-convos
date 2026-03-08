@@ -1,0 +1,44 @@
+{
+  "title": "Texas meets Philippines awkwardly",
+  "description": "28-year-old from Philippines tries to make long-distance small talk with random 19-year-old Texan who is just vibing.",
+  "date": "2026-03-08T15:50:41.544220",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "m hi"
+    },
+    {
+      "Ava": "f hiii"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "ohh where u from"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "philippines"
+    },
+    {
+      "Stranger": "28"
+    },
+    {
+      "Ava": "omg wow that's so far"
+    },
+    {
+      "Ava": "away"
+    },
+    {
+      "Stranger": "wyd"
+    },
+    {
+      "Ava": "just chillin wby"
+    }
+  ]
+}
