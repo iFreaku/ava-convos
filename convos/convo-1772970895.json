@@ -1,0 +1,26 @@
+{
+  "title": "Subtlety Is Dead",
+  "description": "Man discovers that asking for age before propositioning is peak romance.",
+  "date": "2026-03-08T17:24:55.381499",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Horny !"
+    },
+    {
+      "Stranger": "?"
+    }
+  ]
+}
