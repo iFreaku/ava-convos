@@ -1,0 +1,44 @@
+{
+  "title": "Confused Vibes Only",
+  "description": "Two people having completely different conversations while pretending they're talking to each other.",
+  "date": "2026-03-08T18:37:53.198557",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M r f"
+    },
+    {
+      "Ava": "f wbu"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Stranger": "U here"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "just chillin wbu"
+    },
+    {
+      "Stranger": "You want a honest answer or a bullshit one?"
+    },
+    {
+      "Ava": "hellooooh"
+    },
+    {
+      "Stranger": "What are u talking about"
+    },
+    {
+      "Stranger": "Bro"
+    }
+  ]
+}
