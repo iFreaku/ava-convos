@@ -1,0 +1,14 @@
+{
+  "title": "Two Letters, Zero Chemistry",
+  "description": "Guy opens with his gender and a casual 'heyy' then immediately vanishes into the void.",
+  "date": "2026-03-08T16:53:50.884931",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Heyy"
+    }
+  ]
+}
