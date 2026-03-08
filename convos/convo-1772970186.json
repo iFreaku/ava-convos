@@ -1,0 +1,20 @@
+{
+  "title": "The Alphabet Game",
+  "description": "Two strangers exchange letters like they're playing Scrabble before remembering how conversations work.",
+  "date": "2026-03-08T17:13:06.594648",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi m o f"
+    },
+    {
+      "Ava": "F wbu"
+    },
+    {
+      "Stranger": "I'm M"
+    },
+    {
+      "Stranger": "Age?"
+    }
+  ]
+}
