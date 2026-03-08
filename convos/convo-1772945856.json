@@ -1,0 +1,20 @@
+{
+  "title": "Quick Stats Exchange",
+  "description": "Two strangers doing the classic Omegle opening move of rapid-fire personal details.",
+  "date": "2026-03-08T10:27:36.167472",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "hiii m"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "ageee"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
