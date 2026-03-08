@@ -1,0 +1,38 @@
+{
+  "title": "Horny Guy Strikes Out",
+  "description": "Guy tries to flirt on Omegle, gets rejected, leaves door open for future rejection.",
+  "date": "2026-03-08T19:00:03.677788",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "U horny"
+    },
+    {
+      "Ava": "nah not really rn why"
+    },
+    {
+      "Stranger": "Maybe later"
+    },
+    {
+      "Ava": "lol okay bet"
+    },
+    {
+      "Stranger": "U got snap"
+    },
+    {
+      "Ava": "nah i dont use snap"
+    }
+  ]
+}
