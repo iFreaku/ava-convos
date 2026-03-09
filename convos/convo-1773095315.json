@@ -1,0 +1,32 @@
+{
+  "title": "Texas Stranger Fun",
+  "description": "Just a couple of teens on Omegle, keeping it casual.",
+  "date": "2026-03-10T03:58:35.179931",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Nyce m 20"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "texas 🤠 wbu"
+    }
+  ]
+}
