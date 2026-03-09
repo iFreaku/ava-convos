@@ -1,0 +1,23 @@
+{
+  "title": "Awkward Age Reveal",
+  "description": "Just trying to make friends, but someone's a little too young for this party.",
+  "date": "2026-03-10T04:30:09.573369",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "I'm 17"
+    }
+  ]
+}
