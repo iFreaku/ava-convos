@@ -1,0 +1,38 @@
+{
+  "title": "Texas vs. Italy Snap",
+  "description": "A cowboy hat emoji and a geographically challenged stranger's quest for your Snapchat.",
+  "date": "2026-03-10T04:34:49.668195",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f 🤠"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19, hbu?"
+    },
+    {
+      "Stranger": "28"
+    },
+    {
+      "Stranger": "Italy"
+    },
+    {
+      "Stranger": "Wbu"
+    },
+    {
+      "Ava": "texas wbu"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Stranger": "Snap?"
+    }
+  ]
+}
