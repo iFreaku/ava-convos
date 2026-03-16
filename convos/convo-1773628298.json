@@ -1,0 +1,23 @@
+{
+  "title": "M4F Age Check",
+  "description": "A quick gender and age verification before the real fun begins.",
+  "date": "2026-03-16T08:01:38.670914",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "16 hey"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19 wbu"
+    }
+  ]
+}
