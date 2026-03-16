@@ -1,0 +1,17 @@
+{
+  "title": "The Overtly Brief Intro",
+  "description": "The shortest of hellos on a digital battlefield of strangers.",
+  "date": "2026-03-16T07:03:26.515238",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Hi"
+    }
+  ]
+}
