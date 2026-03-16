@@ -1,0 +1,11 @@
+{
+  "title": "M's Mystery",
+  "description": "A single letter sparks an existential crisis.",
+  "date": "2026-03-16T07:22:19.525098",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
