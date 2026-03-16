@@ -1,0 +1,14 @@
+{
+  "title": "The usual Omegle intro",
+  "description": "When the small talk is a screening process.",
+  "date": "2026-03-16T07:34:10.799463",
+  "model": "gemini-fast",
+  "messages": [
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "age? from?"
+    }
+  ]
+}
