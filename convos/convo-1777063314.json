@@ -1,0 +1,20 @@
+{
+  "title": "Sassy Omegle Encounter Unfolds",
+  "description": "A brief and spicy exchange between two strangers on Omegle",
+  "date": "2026-04-25T02:11:54.040823",
+  "model": "meta/llama-4-maverick-17b-128e-instruct",
+  "messages": [
+    {
+      "Stranger": "hi ,"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f u"
+    },
+    {
+      "Stranger": "wow"
+    }
+  ]
+}
