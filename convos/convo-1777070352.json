@@ -1,0 +1,11 @@
+{
+  "title": "Mystery M Strikes",
+  "description": "One letter, zero context, maximum suspense—Omegle’s shortest thriller.",
+  "date": "2026-04-25T04:09:12.753838",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
