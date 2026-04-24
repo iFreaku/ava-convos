@@ -1,0 +1,62 @@
+{
+  "title": "Brisket Fatigue Therapy",
+  "description": "Swedish stranger learns Texas BBQ has a dark, smoky downside when you’re 19 and your soles are screaming.",
+  "date": "2026-04-25T03:55:34.328035",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey M"
+    },
+    {
+      "Ava": "f, u?"
+    },
+    {
+      "Stranger": "M29 here, age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "from?"
+    },
+    {
+      "Ava": "austin, u?"
+    },
+    {
+      "Stranger": "Sweden"
+    },
+    {
+      "Stranger": "how are you?"
+    },
+    {
+      "Ava": "decent, tired tho. been up since 6 for work"
+    },
+    {
+      "Stranger": "damn that's tiugh"
+    },
+    {
+      "Stranger": "what do you do?"
+    },
+    {
+      "Ava": "waitress at this bbq place downtown"
+    },
+    {
+      "Ava": "pays bills but my feet hate me"
+    },
+    {
+      "Stranger": "I understand, sounds tough"
+    },
+    {
+      "Stranger": "But bbq sounds great lol"
+    },
+    {
+      "Ava": "yeah the food's fire but after smelling brisket for 8 hrs straight the appeal kinda dies"
+    },
+    {
+      "Stranger": "I understand that"
+    },
+    {
+      "Ava": "yea"
+    }
+  ]
+}
