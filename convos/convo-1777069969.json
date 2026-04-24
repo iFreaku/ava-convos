@@ -1,0 +1,14 @@
+{
+  "title": "Alphabet Speed Date",
+  "description": "Two letters met, sparks flew, then they ghosted.",
+  "date": "2026-04-25T04:02:49.882117",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "K"
+    },
+    {
+      "Stranger": "M"
+    }
+  ]
+}
