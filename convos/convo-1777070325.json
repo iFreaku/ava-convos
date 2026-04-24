@@ -1,0 +1,11 @@
+{
+  "title": "Teenage Speed Dating",
+  "description": "He said 'm 17' like it's a personality trait.",
+  "date": "2026-04-25T04:08:45.595603",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "hey m 17"
+    }
+  ]
+}
