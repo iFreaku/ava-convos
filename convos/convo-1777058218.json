@@ -1,0 +1,53 @@
+{
+  "title": "Bi Guy Hits on Texan",
+  "description": "A casual and slightly flirtatious conversation between two strangers from different countries on Omegle takes a predictable turn when social media is brought up.",
+  "date": "2026-04-25T00:46:58.694390",
+  "model": "meta/llama-3.3-70b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hiii"
+    },
+    {
+      "Stranger": "m bi"
+    },
+    {
+      "Ava": "f btw"
+    },
+    {
+      "Ava": "wyd"
+    },
+    {
+      "Stranger": "Chilling u"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19 u?"
+    },
+    {
+      "Stranger": "18"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "texas"
+    },
+    {
+      "Ava": "u from where"
+    },
+    {
+      "Stranger": "uk"
+    },
+    {
+      "Stranger": "Got snap"
+    },
+    {
+      "Ava": "no i dont share socials"
+    },
+    {
+      "Ava": "what brings u here"
+    }
+  ]
+}
