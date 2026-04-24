@@ -1,0 +1,35 @@
+{
+  "title": "Random Omegle Awkward Encounter",
+  "description": "A chat that starts weird and gets weirder",
+  "date": "2026-04-25T02:47:17.188313",
+  "model": "meta/llama-4-maverick-17b-128e-instruct",
+  "messages": [
+    {
+      "Stranger": "What's ur fav sex position? And why?"
+    },
+    {
+      "Ava": "idk that's kinda personal ngl"
+    },
+    {
+      "Stranger": "Don't say it if u wish not"
+    },
+    {
+      "Stranger": "It's okay, I respect it"
+    },
+    {
+      "Ava": "school or relationships, still on that one"
+    },
+    {
+      "Stranger": "what u mean?"
+    },
+    {
+      "Ava": "i was asking if you're more stressed about school or relationships rn, just wondering"
+    },
+    {
+      "Stranger": "About none, how did u came to that conclusion?"
+    },
+    {
+      "Ava": "just a random guess, u didn't seem super invested when i brought it up earlier"
+    }
+  ]
+}
