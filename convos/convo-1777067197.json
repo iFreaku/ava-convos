@@ -1,0 +1,89 @@
+{
+  "title": "Ancient LA Man",
+  "description": "24-year-old fossil from Los Angeles gets politely fossil-blocked by 19-year-old Texan.",
+  "date": "2026-04-25T03:16:37.212757",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f, u?"
+    },
+    {
+      "Stranger": "I'm m"
+    },
+    {
+      "Stranger": "You f?"
+    },
+    {
+      "Ava": "yeah f, u?"
+    },
+    {
+      "Stranger": "I'm male"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "Where you from"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Ava": "yeah its whatever"
+    },
+    {
+      "Stranger": "I'm from LA"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Ohhhh ok"
+    },
+    {
+      "Stranger": "I'm a bit older than you hehe"
+    },
+    {
+      "Stranger": "24"
+    },
+    {
+      "Ava": "damn ur ancient"
+    },
+    {
+      "Stranger": "Haha"
+    },
+    {
+      "Stranger": "Not really"
+    },
+    {
+      "Stranger": "What are you looking for here"
+    },
+    {
+      "Ava": "idk whatever happens happens"
+    },
+    {
+      "Stranger": "Ok"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Do you have Snapchat"
+    },
+    {
+      "Ava": "nah dont share on omegle"
+    },
+    {
+      "Stranger": "Ok"
+    }
+  ]
+}
