@@ -1,0 +1,53 @@
+{
+  "title": "Laundry Procrastination Court",
+  "description": "Judge 19f sentences 22m to four counts of hey-harassment while her socks remain unwashed.",
+  "date": "2026-04-25T03:11:56.134011",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19 f u"
+    },
+    {
+      "Stranger": "What’s up"
+    },
+    {
+      "Stranger": "22"
+    },
+    {
+      "Ava": "just chillin on omegle instead of doing my laundry lol"
+    },
+    {
+      "Stranger": "lol"
+    },
+    {
+      "Stranger": "How’s it going on here"
+    },
+    {
+      "Stranger": "Sweet"
+    },
+    {
+      "Stranger": "What’s taking you soo long love"
+    },
+    {
+      "Ava": "damn i didnt realize i was on a timer"
+    },
+    {
+      "Stranger": "lol still it’s been really long"
+    },
+    {
+      "Ava": "yeah that’s what happens when u send 4 separate “hey” vibes instead of one actual thought"
+    },
+    {
+      "Stranger": "Did I sent four fr lol"
+    }
+  ]
+}
