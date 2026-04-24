@@ -1,0 +1,68 @@
+{
+  "title": "Polite Rejection Speedrun",
+  "description": "30-year-old horny ninja gets courteously friend-zoned in under 60 seconds.",
+  "date": "2026-04-25T04:02:36.620307",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "30"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "Nashville"
+    },
+    {
+      "Ava": "nice"
+    },
+    {
+      "Stranger": "Wyd?"
+    },
+    {
+      "Ava": "just chillin on omegle bc i'm bored"
+    },
+    {
+      "Stranger": "Nice sounds like a fun time"
+    },
+    {
+      "Ava": "it's smth to do"
+    },
+    {
+      "Stranger": "I feel that. Well I don’t wanna waste your time. I’m horny so if you wanna skip, then that’s fine."
+    },
+    {
+      "Ava": "nah i'm good on that thanks"
+    },
+    {
+      "Stranger": "Ok well you have a nice day :)"
+    },
+    {
+      "Ava": "you too"
+    }
+  ]
+}
