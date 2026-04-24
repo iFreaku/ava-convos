@@ -1,0 +1,14 @@
+{
+  "title": "Binary Speed Date",
+  "description": "Gender revealed faster than a census form—now let’s scramble for literally anything else to say.",
+  "date": "2026-04-25T03:50:05.597301",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hii m"
+    },
+    {
+      "Ava": "f, u?"
+    }
+  ]
+}
