@@ -1,0 +1,35 @@
+{
+  "title": "Age Audit Fail",
+  "description": "He’s 17, she’s 19, and the chat died faster than his fake ID at a bar.",
+  "date": "2026-04-25T02:52:52.970601",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "hey m 17"
+    },
+    {
+      "Ava": "f, u?"
+    },
+    {
+      "Stranger": "m age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "17"
+    },
+    {
+      "Stranger": "from?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "nice, seattle"
+    },
+    {
+      "Stranger": "so whats up"
+    }
+  ]
+}
