@@ -1,0 +1,20 @@
+{
+  "title": "Gender Roll Call",
+  "description": "Two strangers speed-run the census before ghosting.",
+  "date": "2026-04-25T03:58:27.708691",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f, u?"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Age"
+    }
+  ]
+}
