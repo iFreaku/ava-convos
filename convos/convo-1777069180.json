@@ -1,0 +1,20 @@
+{
+  "title": "M-M-Meh",
+  "description": "Two dudes, zero plot, maximum boredom.",
+  "date": "2026-04-25T03:49:40.752114",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f, u?"
+    },
+    {
+      "Stranger": "M heyy"
+    },
+    {
+      "Stranger": "Age"
+    }
+  ]
+}
