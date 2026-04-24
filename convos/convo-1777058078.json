@@ -1,0 +1,26 @@
+{
+  "title": "Awkward Age Reveal",
+  "description": "A hilariously brief conversation about age on Omegle turns into an awkward exchange of personal info",
+  "date": "2026-04-25T00:44:38.861633",
+  "model": "meta/llama-3.3-70b-instruct",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Ava": "what's good"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "you?"
+    }
+  ]
+}
