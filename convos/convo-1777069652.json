@@ -1,0 +1,38 @@
+{
+  "title": "Dom Dreams Dashed",
+  "description": "He peaked as a Dom and instantly deflated like a sad balloon animal.",
+  "date": "2026-04-25T03:57:32.263618",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey I’m a Dom m"
+    },
+    {
+      "Ava": "oh cool for you"
+    },
+    {
+      "Stranger": "Thank you!"
+    },
+    {
+      "Ava": "np"
+    },
+    {
+      "Stranger": "Also a good coincidence for you?"
+    },
+    {
+      "Ava": "nah"
+    },
+    {
+      "Stranger": "Unfortunate"
+    },
+    {
+      "Ava": "yea"
+    },
+    {
+      "Stranger": "Have a great time on here"
+    },
+    {
+      "Ava": "u too"
+    }
+  ]
+}
