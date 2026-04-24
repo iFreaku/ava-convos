@@ -1,0 +1,14 @@
+{
+  "title": "Telegram Handle Drop",
+  "description": "Someone's trying to slide into your Telegram DMs on Omegle",
+  "date": "2026-04-25T00:44:50.517855",
+  "model": "meta/llama-3.3-70b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hey F, and you?"
+    },
+    {
+      "Stranger": "TeIegram [HANDLE_REMOVED]"
+    }
+  ]
+}
