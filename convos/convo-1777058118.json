@@ -1,0 +1,14 @@
+{
+  "title": "Sassy Girl Alert",
+  "description": "A feisty female warns against sharing social media handles on Omegle, setting the tone for a cautious conversation.",
+  "date": "2026-04-25T00:45:18.951198",
+  "model": "meta/llama-3.3-70b-instruct",
+  "messages": [
+    {
+      "Ava": "dont share socials on omegle"
+    },
+    {
+      "Ava": "i'm a girl"
+    }
+  ]
+}
