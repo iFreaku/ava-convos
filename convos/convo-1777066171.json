@@ -1,0 +1,71 @@
+{
+  "title": "Texas Heat Kills Chat",
+  "description": "Omegle flameout when 95°F midnight temps prove too scorching even for horny strangers.",
+  "date": "2026-04-25T02:59:31.176027",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f, u?"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19, u?"
+    },
+    {
+      "Stranger": "22"
+    },
+    {
+      "Ava": "nice"
+    },
+    {
+      "Stranger": "Wyd?"
+    },
+    {
+      "Stranger": "Whay are you doing"
+    },
+    {
+      "Ava": "just lying in bed scrolling tbh, its too hot to move"
+    },
+    {
+      "Stranger": "Where you from?"
+    },
+    {
+      "Ava": "austin texas, its like 95 at midnight lmao"
+    },
+    {
+      "Stranger": "Wdym"
+    },
+    {
+      "Ava": "its 95 degrees outside still"
+    },
+    {
+      "Stranger": "Damn crazy"
+    },
+    {
+      "Stranger": "Bye"
+    },
+    {
+      "Ava": "bye"
+    },
+    {
+      "Stranger": "Lol"
+    },
+    {
+      "Ava": "lol"
+    },
+    {
+      "Ava": "?"
+    }
+  ]
+}
