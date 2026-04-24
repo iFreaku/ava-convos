@@ -1,0 +1,14 @@
+{
+  "title": "Minimalist Mating Ritual",
+  "description": "Two alphabets tried to flirt and ran out of letters.",
+  "date": "2026-04-25T03:58:53.083322",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "hi m"
+    },
+    {
+      "Stranger": "hru"
+    }
+  ]
+}
