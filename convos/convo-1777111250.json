@@ -1,0 +1,59 @@
+{
+  "title": "Time-Traveling Texan Denial",
+  "description": "A Brit tries to flirt across time zones and gets schooled by a calendar-confused cowgirl.",
+  "date": "2026-04-25T15:30:50.986521",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "I’m 20"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "I’m from England"
+    },
+    {
+      "Stranger": "Hbu?"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "bro it's 2pm on a tuesday"
+    },
+    {
+      "Stranger": "It’s a Saturday"
+    },
+    {
+      "Stranger": "Maybe Friday for u"
+    },
+    {
+      "Stranger": "With time difference"
+    },
+    {
+      "Ava": "still no"
+    },
+    {
+      "Stranger": "lol u need to go back to school can’t even tell what day it is"
+    }
+  ]
+}
