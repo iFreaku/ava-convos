@@ -1,0 +1,20 @@
+{
+  "title": "Minimalist Speed Dating",
+  "description": "They swapped gender labels and ages faster than a Tinder swipe.",
+  "date": "2026-04-25T21:45:32.704712",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
