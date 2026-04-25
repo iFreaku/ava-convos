@@ -1,0 +1,29 @@
+{
+  "title": "Abs? Bro, I'm in Austin",
+  "description": "A Dutch guy asks about abs while an Austin teen wonders if this is a gym pickup or a cultural exchange.",
+  "date": "2026-04-26T03:48:52.101536",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M. Age?"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "I'm 22"
+    },
+    {
+      "Stranger": "From the Netherlands"
+    },
+    {
+      "Stranger": "Do you like abs?"
+    }
+  ]
+}
