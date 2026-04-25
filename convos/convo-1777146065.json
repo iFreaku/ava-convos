@@ -1,0 +1,41 @@
+{
+  "title": "3AM Memes or Ghost?",
+  "description": "Two strangers negotiate friendship like it’s a Tinder swipe war between Texas chaos and Massachusetts silence.",
+  "date": "2026-04-26T01:11:05.361596",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19, texas, you?"
+    },
+    {
+      "Stranger": "22 Massachusetts"
+    },
+    {
+      "Stranger": "Wanna be friends?"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "depends. are you the type to text 3am memes or just ghost after saying hi?"
+    },
+    {
+      "Stranger": "Depnds, if our vibes match"
+    },
+    {
+      "Stranger": "?"
+    }
+  ]
+}
