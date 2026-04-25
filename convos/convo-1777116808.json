@@ -1,0 +1,29 @@
+{
+  "title": "Texas-Sized Small Talk",
+  "description": "Two strangers compress the entire Lone Star State into four syllables and zero personality.",
+  "date": "2026-04-25T17:03:28.598763",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "from"
+    },
+    {
+      "Ava": "austin texas"
+    }
+  ]
+}
