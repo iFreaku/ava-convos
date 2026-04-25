@@ -1,0 +1,20 @@
+{
+  "title": "Austin Vibes Only",
+  "description": "He said M, she said F, then Texas hit 'em with a yeehaw mic drop.",
+  "date": "2026-04-25T17:55:42.131037",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin texas"
+    }
+  ]
+}
