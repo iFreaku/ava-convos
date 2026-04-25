@@ -1,0 +1,59 @@
+{
+  "title": "Texan Insomniac Dodges Thirst",
+  "description": "Austin girl just wants her loud roommate to shut up, ends up fielding the most Omegle question ever before peace-ing out.",
+  "date": "2026-04-25T17:47:22.465771",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Ava": "yeah it's whatever"
+    },
+    {
+      "Stranger": "So wyd?"
+    },
+    {
+      "Ava": "just vibing on omegle bc my roommate's being loud as hell and i can't sleep"
+    },
+    {
+      "Stranger": "Ohh"
+    },
+    {
+      "Stranger": "Where are you from btw?"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "ngl that's the most omegle thing anyone's asked me tonight"
+    },
+    {
+      "Stranger": "??"
+    },
+    {
+      "Ava": "nah"
+    },
+    {
+      "Stranger": "Okok"
+    },
+    {
+      "Ava": "k"
+    }
+  ]
+}
