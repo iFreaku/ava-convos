@@ -1,0 +1,26 @@
+{
+  "title": "Biscuit? Who Said Biscuit?",
+  "description": "An Omegle chat where a stranger’s snack-related identity crisis derails everything.",
+  "date": "2026-04-25T23:55:14.464073",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "hi"
+    },
+    {
+      "Ava": "u said u were biscuit."
+    }
+  ]
+}
