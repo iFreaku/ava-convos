@@ -1,0 +1,50 @@
+{
+  "title": "Austin? No, U.S.M.",
+  "description": "Two people desperately trying to locate each other across a geography glitch that somehow involves a university acronym no one asked for.",
+  "date": "2026-04-26T00:59:29.472611",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "I'm 21"
+    },
+    {
+      "Ava": "cool. austin?"
+    },
+    {
+      "Stranger": "You're from usm"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "austin."
+    },
+    {
+      "Stranger": "Nah I'm not"
+    },
+    {
+      "Ava": "oh. then where?"
+    }
+  ]
+}
