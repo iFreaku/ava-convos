@@ -1,0 +1,26 @@
+{
+  "title": "Austin vs. Vancouver Small Talk",
+  "description": "Two strangers bond over geography before realizing they’re both just waiting for someone to say 'lol'.",
+  "date": "2026-04-26T00:50:58.914122",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hii"
+    },
+    {
+      "Ava": "hi"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin. u?"
+    },
+    {
+      "Stranger": "Vancouver"
+    },
+    {
+      "Stranger": "Your name?"
+    }
+  ]
+}
