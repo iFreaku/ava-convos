@@ -1,0 +1,35 @@
+{
+  "title": "Texas vs. Greece Chat",
+  "description": "A 19-year-old Texan and a 24-year-old Greek accidentally write their life stories in 3 emojis and a question mark.",
+  "date": "2026-04-26T04:13:26.068292",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "I m 24 wbu"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "texan"
+    },
+    {
+      "Stranger": "Cool i m from Greece"
+    },
+    {
+      "Stranger": "What brings you here"
+    },
+    {
+      "Stranger": "Are u typing ur story of ur life haha"
+    }
+  ]
+}
