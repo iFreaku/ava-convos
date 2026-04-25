@@ -1,0 +1,20 @@
+{
+  "title": "Age is just a block",
+  "description": "He asked for digits, she gave him a red flag.",
+  "date": "2026-04-25T17:03:03.832514",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "30m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
