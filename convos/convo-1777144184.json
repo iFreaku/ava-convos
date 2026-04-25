@@ -1,0 +1,44 @@
+{
+  "title": "Austin vs Italy Chat Fails",
+  "description": "A 19-year-old from Austin accidentally started a Euro travel itinerary instead of flirting.",
+  "date": "2026-04-26T00:39:44.796535",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "from"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "italy"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "26"
+    },
+    {
+      "Stranger": "hru"
+    }
+  ]
+}
