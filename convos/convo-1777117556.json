@@ -1,0 +1,20 @@
+{
+  "title": "Peak Omegle Energy",
+  "description": "Two humans achieve the bare minimum of conversation and still feel accomplished.",
+  "date": "2026-04-25T17:15:56.816132",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hallo"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "How are you?"
+    },
+    {
+      "Ava": "i'm alright just chillin wbu"
+    }
+  ]
+}
