@@ -1,0 +1,38 @@
+{
+  "title": "Speed Rage Granny",
+  "description": "29-year-old man has full meltdown because 19-year-old girl can’t text at NASCAR pace on Omegle.",
+  "date": "2026-04-25T19:35:29.731049",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "m 29"
+    },
+    {
+      "Ava": "f 19"
+    },
+    {
+      "Stranger": "from ?"
+    },
+    {
+      "Ava": "austin tx"
+    },
+    {
+      "Stranger": "why u here ?"
+    },
+    {
+      "Stranger": "can u type fast? its taking u decades to write ?"
+    },
+    {
+      "Ava": "lol damn ok mr impatient"
+    },
+    {
+      "Stranger": "get in a better network area ...then come to a texting site"
+    },
+    {
+      "Stranger": "see you will be getting old while typing like a grandma"
+    },
+    {
+      "Stranger": "u know what stop wasting other people time when u can't afford a speed network"
+    }
+  ]
+}
