@@ -1,0 +1,11 @@
+{
+  "title": "Sne.p? Bro, It's Runtesde",
+  "description": "A 22-year-old’s password is a typo that sounds like a failed ninja spell.",
+  "date": "2026-04-26T03:52:50.118280",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "hi f 22 my sne.p: runtesde"
+    }
+  ]
+}
