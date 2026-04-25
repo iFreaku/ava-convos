@@ -1,0 +1,11 @@
+{
+  "title": "Chill Chat Only, Bro",
+  "description": "A man walks into an Omegle like it’s a coffee shop and asks for a name like he’s ordering a latte.",
+  "date": "2026-04-26T00:52:21.303992",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Chill chat only. male here, whats your name?"
+    }
+  ]
+}
