@@ -1,0 +1,14 @@
+{
+  "title": "Mismatched M-nergy",
+  "description": "Two dudes, one letter, zero chemistry—just two silent M’s wondering why they’re still here.",
+  "date": "2026-04-25T17:18:49.071092",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M horny"
+    },
+    {
+      "Ava": "m"
+    }
+  ]
+}
