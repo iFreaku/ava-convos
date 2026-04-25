@@ -1,0 +1,32 @@
+{
+  "title": "F's and Names Only",
+  "description": "Two strangers bonded through a cryptic alphabet soup of single letters and names like they're decoding a spy mission.",
+  "date": "2026-04-26T00:57:40.080197",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Name?"
+    },
+    {
+      "Ava": "ava"
+    },
+    {
+      "Stranger": "How are you, ava"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "I'm arman"
+    }
+  ]
+}
