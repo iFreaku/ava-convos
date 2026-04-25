@@ -1,0 +1,44 @@
+{
+  "title": "Weather Skips Virginity",
+  "description": "Austin 19 meets M23 who jumps from hometown to hymen in 5 seconds flat.",
+  "date": "2026-04-25T15:50:59.611877",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "yo"
+    },
+    {
+      "Stranger": "M23"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "When you lost your vcard?"
+    },
+    {
+      "Ava": "damn we really skipping the weather huh"
+    },
+    {
+      "Stranger": "Why?"
+    },
+    {
+      "Stranger": "??"
+    }
+  ]
+}
