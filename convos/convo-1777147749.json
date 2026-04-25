@@ -1,0 +1,62 @@
+{
+  "title": "Succulent Standoff",
+  "description": "A 19-year-old silently judges a stranger’s vibes through slow texts and a traumatized houseplant.",
+  "date": "2026-04-26T01:39:09.298575",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hii"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Heyyy how are youv"
+    },
+    {
+      "Stranger": "Whats ur age?"
+    },
+    {
+      "Stranger": "You still here??"
+    },
+    {
+      "Ava": "yeah i’m here"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Niceee im 21"
+    },
+    {
+      "Stranger": "What are you doing rn?"
+    },
+    {
+      "Ava": "staring at a half-dead succulent like it owes me money"
+    },
+    {
+      "Stranger": "Haha nicee that sounds fun"
+    },
+    {
+      "Stranger": "Where are you from?"
+    },
+    {
+      "Stranger": "And, what do you like to do in your free time? You play any sports or go to the gym?"
+    },
+    {
+      "Ava": "austin. mostly avoid the gym unless i’m running from my responsibilities."
+    },
+    {
+      "Stranger": "Damn you type really slow. Are you horny by any chance?"
+    },
+    {
+      "Ava": "nah i type slow because i’m judging your energy and deciding if you’re worth the effort"
+    }
+  ]
+}
