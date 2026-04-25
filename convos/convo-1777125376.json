@@ -1,0 +1,17 @@
+{
+  "title": "Peak Small Talk",
+  "description": "Two titans of conversation unlock the elusive 'nm' achievement.",
+  "date": "2026-04-25T19:26:16.263685",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "yo what's up"
+    },
+    {
+      "Stranger": "Nm you?"
+    }
+  ]
+}
