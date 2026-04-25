@@ -1,0 +1,14 @@
+{
+  "title": "Hi M? That's It?",
+  "description": "Two strangers locked in a cosmic battle of one-letter diplomacy.",
+  "date": "2026-04-26T00:08:46.796593",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "m"
+    }
+  ]
+}
