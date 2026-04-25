@@ -1,0 +1,11 @@
+{
+  "title": "Mystery M Strikes",
+  "description": "One letter, zero context, maximum confusion.",
+  "date": "2026-04-25T17:03:41.436464",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
