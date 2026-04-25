@@ -1,0 +1,17 @@
+{
+  "title": "F. That's It.",
+  "description": "A 34M’s existential crisis condensed into one letter and a silence louder than a Zoom meeting with your boss.",
+  "date": "2026-04-26T00:37:35.076744",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hey 34m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hows it going?"
+    }
+  ]
+}
