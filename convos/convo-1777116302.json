@@ -1,0 +1,11 @@
+{
+  "title": "One-Letter Exit",
+  "description": "The chat ended faster than a sneeze after the stranger’s minimalist intro got ghosted mid-vowel.",
+  "date": "2026-04-25T16:55:02.677580",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hi m"
+    }
+  ]
+}
