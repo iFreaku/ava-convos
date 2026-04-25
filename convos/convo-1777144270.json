@@ -1,0 +1,17 @@
+{
+  "title": "F? That's It?",
+  "description": "A cryptic 'f' launched a cosmic quest for age, leaving both souls confused and mildly offended.",
+  "date": "2026-04-26T00:41:10.124077",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M hi"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    }
+  ]
+}
