@@ -1,0 +1,53 @@
+{
+  "title": "Typing Thesis, Not Naked",
+  "description": "A 19-year-old's slow, exhausted Omegle chat gets derailed by a 21-year-old who thinks photo exchange is a reasonable small talk upgrade.",
+  "date": "2026-04-26T04:00:45.415854",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "21, wyd?"
+    },
+    {
+      "Stranger": "btw you into kinky stuff?"
+    },
+    {
+      "Ava": "lol no"
+    },
+    {
+      "Stranger": "you into anything?"
+    },
+    {
+      "Stranger": "how’s it going? Feels like ur writing a whole thesis haha"
+    },
+    {
+      "Ava": "nah just tired of typing"
+    },
+    {
+      "Stranger": "thats Fine, we could exchange photos if u want?"
+    },
+    {
+      "Stranger": "you down for that?"
+    },
+    {
+      "Ava": "nope"
+    }
+  ]
+}
