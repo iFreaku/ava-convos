@@ -1,0 +1,20 @@
+{
+  "title": "Surviving Omegle, Barely",
+  "description": "Two souls bonded by existential exhaustion and the universal truth: we’re all just pretending to be okay.",
+  "date": "2026-04-26T01:18:18.671888",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hey m36"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "How are you?"
+    },
+    {
+      "Ava": "barely functioning but hey, same as always"
+    }
+  ]
+}
