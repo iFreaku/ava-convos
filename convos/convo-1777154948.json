@@ -1,0 +1,17 @@
+{
+  "title": "Bot? Or Just Bad at Chat",
+  "description": "A stranger asks for age after a one-letter exchange—like a dating app that forgot to load the personality.",
+  "date": "2026-04-26T03:39:08.459499",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hello m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Âge ?"
+    }
+  ]
+}
