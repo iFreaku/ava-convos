@@ -1,0 +1,11 @@
+{
+  "title": "Ghosted by Grammar",
+  "description": "Stranger opened with 'Hey m' and then disappeared like the rest of the alphabet.",
+  "date": "2026-04-25T21:52:15.733852",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    }
+  ]
+}
