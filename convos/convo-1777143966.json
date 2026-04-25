@@ -1,0 +1,23 @@
+{
+  "title": "Hey, You're Still Here?",
+  "description": "Two strangers play telephone with emojis and hope, neither admitting they're just waiting for the other to say something weird.",
+  "date": "2026-04-26T00:36:06.032464",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "How are you"
+    },
+    {
+      "Stranger": "Hello there :)"
+    }
+  ]
+}
