@@ -1,0 +1,44 @@
+{
+  "title": "Snap? Nah, You're Dumb",
+  "description": "A stranger drops their Snap like it’s a battlefield flag—and gets called out for it on Omegle.",
+  "date": "2026-04-26T03:51:19.977855",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "I’m 21"
+    },
+    {
+      "Stranger": "Wanna chat better on snap?"
+    },
+    {
+      "Stranger": "Add me - davedanial_2610"
+    },
+    {
+      "Ava": "nah i dont share snaps on omegle"
+    },
+    {
+      "Ava": "but hey davedanial_2610"
+    },
+    {
+      "Ava": "you’re either brave or dumb for dropping that here"
+    }
+  ]
+}
