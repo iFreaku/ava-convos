@@ -1,0 +1,29 @@
+{
+  "title": "Austin Swap",
+  "description": "Two Texans trade ages and zip codes, then vanish like breakfast tacos at 2 a.m.",
+  "date": "2026-04-25T17:48:10.564857",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "Where from?"
+    },
+    {
+      "Ava": "austin texas"
+    }
+  ]
+}
