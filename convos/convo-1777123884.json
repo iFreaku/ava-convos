@@ -1,0 +1,23 @@
+{
+  "title": "Austin TX Ghosting",
+  "description": "He asked ‘from?’ and she vanished like brisket at a BBQ.",
+  "date": "2026-04-25T19:01:24.391242",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin tx"
+    }
+  ]
+}
