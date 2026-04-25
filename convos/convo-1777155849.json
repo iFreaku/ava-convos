@@ -1,0 +1,29 @@
+{
+  "title": "F. M. 19. GIF.",
+  "description": "A high-stakes Omegle negotiation where the entire conversation is one letter and a GIF of a dancing potato.",
+  "date": "2026-04-26T03:54:09.663346",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "hey"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Stranger": "i’m 19"
+    },
+    {
+      "Stranger": {
+        "type": "gif",
+        "url": "https://omegleapp.me/_next/image/?url=https%3A%2F%2Fmedia.tenor.com%2FEEvc35RrvMwAAAAM%2Fokay-ok.gif&w=640&q=75"
+      }
+    }
+  ]
+}
