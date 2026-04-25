@@ -1,0 +1,14 @@
+{
+  "title": "Hey M? That's It?",
+  "description": "Two strangers locked in a typo duel that may or may not be an alien language.",
+  "date": "2026-04-26T03:56:01.340271",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "vhey"
+    },
+    {
+      "Stranger": "m"
+    }
+  ]
+}
