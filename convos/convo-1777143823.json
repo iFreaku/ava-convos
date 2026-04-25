@@ -1,0 +1,53 @@
+{
+  "title": "Cat Overlords Rule Here",
+  "description": "A cat sitting on a keyboard outmaneuvers a desperate Omegle stranger with tuna-backed diplomacy and zero chill.",
+  "date": "2026-04-26T00:33:43.398057",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Want to do sex chat"
+    },
+    {
+      "Ava": "lol no"
+    },
+    {
+      "Ava": "my cat just sat on my keyboard"
+    },
+    {
+      "Ava": "she’s the only one who gets privileges here"
+    },
+    {
+      "Stranger": "Great"
+    },
+    {
+      "Stranger": "She is lucky"
+    },
+    {
+      "Ava": "she knows it"
+    },
+    {
+      "Stranger": "Can I see it"
+    },
+    {
+      "Ava": "nah i don’t send pics of my cat or my face to omegle strangers"
+    },
+    {
+      "Stranger": "Not face or not cat"
+    },
+    {
+      "Stranger": "But also your body"
+    },
+    {
+      "Ava": "not even if you paid me in tuna and existential dread"
+    },
+    {
+      "Stranger": "Okay no problem"
+    }
+  ]
+}
