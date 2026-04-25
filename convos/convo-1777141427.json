@@ -1,0 +1,32 @@
+{
+  "title": "Biscuit Betrayal",
+  "description": "A 19-year-old gets accused of being a snack by a stranger who immediately denies it—like a pastry crime scene with dial-up internet.",
+  "date": "2026-04-25T23:53:47.412198",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "34 m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "the tension"
+    },
+    {
+      "Ava": "u said i am biscuit."
+    },
+    {
+      "Stranger": "i did not"
+    },
+    {
+      "Stranger": "how old are you"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "where are you from"
+    }
+  ]
+}
