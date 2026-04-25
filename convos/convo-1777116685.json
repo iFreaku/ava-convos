@@ -1,0 +1,20 @@
+{
+  "title": "Texas Tinder Tumbleweed",
+  "description": "Two f's met, said hi, then vanished like cowboy ghosts.",
+  "date": "2026-04-25T17:01:25.571216",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "hiii f"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "from?"
+    },
+    {
+      "Ava": "austin texas"
+    }
+  ]
+}
