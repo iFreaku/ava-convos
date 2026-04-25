@@ -1,0 +1,41 @@
+{
+  "title": "Ghosted by Height Check",
+  "description": "He measured, she vanished—classic 19-second love story.",
+  "date": "2026-04-25T19:04:06.512302",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "I’m male"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age ?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Ava": "yeah"
+    },
+    {
+      "Stranger": "You like tall guys ?"
+    },
+    {
+      "Stranger": "👀"
+    },
+    {
+      "Stranger": "Are you there Ma’am"
+    },
+    {
+      "Stranger": "Hey"
+    }
+  ]
+}
