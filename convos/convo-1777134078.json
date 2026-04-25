@@ -1,0 +1,32 @@
+{
+  "title": "Cougar Checkpoint",
+  "description": "He’s 31, she’s 19, and the only thing older than him is his insecurity.",
+  "date": "2026-04-25T21:51:18.356510",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "31 okey for you or to old"
+    },
+    {
+      "Ava": "nah 31s fine"
+    },
+    {
+      "Stranger": "You sure"
+    },
+    {
+      "Stranger": "You from"
+    }
+  ]
+}
