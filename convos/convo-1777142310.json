@@ -1,0 +1,35 @@
+{
+  "title": "Fitted Sheet Romantic",
+  "description": "A 19-year-old is more worried about laundry than love—unless you can find their cat in the washing machine.",
+  "date": "2026-04-26T00:08:30.775844",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hi m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age ?"
+    },
+    {
+      "Ava": "19, but i’m still figuring out how to fold a fitted sheet so yeah"
+    },
+    {
+      "Stranger": "Whzts ur snap ("
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "don’t share on omegle"
+    },
+    {
+      "Ava": "but if u can find my cat in a pile of laundry"
+    },
+    {
+      "Ava": "we might be friends"
+    }
+  ]
+}
