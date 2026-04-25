@@ -1,0 +1,17 @@
+{
+  "title": "Age Verified, Now What?",
+  "description": "A 21-year-old stranger just dropped their age like a mic—now you’re both awkwardly staring at the chat buffer.",
+  "date": "2026-04-26T04:08:00.120874",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "21"
+    }
+  ]
+}
