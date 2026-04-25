@@ -1,0 +1,50 @@
+{
+  "title": "Austin vs UK Small Talk",
+  "description": "Two strangers exchange age, location, and then both stare into the void waiting for the other to say something interesting.",
+  "date": "2026-04-26T02:09:37.295699",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Ok"
+    },
+    {
+      "Stranger": "29"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Uk"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Stranger": "??"
+    }
+  ]
+}
