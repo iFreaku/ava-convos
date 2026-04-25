@@ -1,0 +1,50 @@
+{
+  "title": "Texas to Portugal Typo Tour",
+  "description": "Two strangers politely vibe across continents while one battles autocorrect and the other battles boredom.",
+  "date": "2026-04-25T19:30:39.057469",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "yo"
+    },
+    {
+      "Stranger": "Hru"
+    },
+    {
+      "Ava": "alright, vibing. u?"
+    },
+    {
+      "Stranger": "Im good thanks"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "Where you from?"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Oh i ses"
+    },
+    {
+      "Stranger": "See*"
+    },
+    {
+      "Ava": "lmao nice typo. where u at"
+    },
+    {
+      "Stranger": "Portugal"
+    },
+    {
+      "Ava": "damn thats far. never been, just seen pics. looks chill"
+    },
+    {
+      "Stranger": "Yeah its fine"
+    }
+  ]
+}
