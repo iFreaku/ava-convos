@@ -1,0 +1,74 @@
+{
+  "title": "Texas Knock-Knock Fail",
+  "description": "A 22-year-old Texan tries to sext a 19-year-old via Omegle knock-knock jokes and gets shut down like a Wi-Fi router at a funeral.",
+  "date": "2026-04-26T03:46:55.737302",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "m/f"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Stranger": "age ?"
+    },
+    {
+      "Ava": "19. you?"
+    },
+    {
+      "Stranger": "I'm 22"
+    },
+    {
+      "Stranger": "from texas. wbu"
+    },
+    {
+      "Stranger": "knock knock ?"
+    },
+    {
+      "Stranger": "are u there"
+    },
+    {
+      "Ava": "yeah. who’s there?"
+    },
+    {
+      "Stranger": "haha"
+    },
+    {
+      "Stranger": "where you from lol"
+    },
+    {
+      "Stranger": "(before the joke)"
+    },
+    {
+      "Stranger": "horny?"
+    },
+    {
+      "Ava": "lowkey but that’s the vibe now isn’t it"
+    },
+    {
+      "Stranger": "I'm a bit too"
+    },
+    {
+      "Stranger": "up for some fun ?"
+    },
+    {
+      "Ava": "depends. what kind of fun?"
+    },
+    {
+      "Stranger": "sext?"
+    },
+    {
+      "Stranger": "??"
+    },
+    {
+      "Stranger": "sllow typer lol"
+    },
+    {
+      "Ava": "nah i don’t do that here"
+    }
+  ]
+}
