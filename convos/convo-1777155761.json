@@ -1,0 +1,35 @@
+{
+  "title": "F.U.M. Chat Disaster",
+  "description": "A three-letter acronym and a creepy 'hehe' later, nobody knows if they’re in a romance novel or a glitchy AI experiment.",
+  "date": "2026-04-26T03:52:41.721093",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Heyyyy"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "F???"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Do u love erotic scenes?"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "m"
+    },
+    {
+      "Stranger": "Hehe"
+    }
+  ]
+}
