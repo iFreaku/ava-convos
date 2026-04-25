@@ -1,0 +1,41 @@
+{
+  "title": "Tired Texan Trade",
+  "description": "Two polite strangers swap ages and hometowns then run out of gas.",
+  "date": "2026-04-25T17:21:18.291369",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hyy m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "20"
+    },
+    {
+      "Stranger": "How are you?"
+    },
+    {
+      "Ava": "tired but alive. you?"
+    },
+    {
+      "Stranger": "Haha wht happend"
+    },
+    {
+      "Stranger": "I am good"
+    },
+    {
+      "Stranger": "Where are you from?"
+    },
+    {
+      "Ava": "austin texas. you?"
+    }
+  ]
+}
