@@ -1,0 +1,536 @@
+{
+  "title": "Snap Beggar vs Chill Girl",
+  "description": "German dude launches 847th Snapchat plea campaign, gets politely roasted by unimpressed Austin teen who just wanted boredom relief.",
+  "date": "2026-04-25T16:47:11.862612",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "F?"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Stranger": "Age urs"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "I m 21"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "Can we talk on snp"
+    },
+    {
+      "Stranger": "If u like"
+    },
+    {
+      "Stranger": "Ur from"
+    },
+    {
+      "Ava": "nah i dont give out socials on omegle"
+    },
+    {
+      "Stranger": "Just to chat becoz here it skips"
+    },
+    {
+      "Stranger": "I promise i will only talk"
+    },
+    {
+      "Stranger": "I wont misbehavev"
+    },
+    {
+      "Stranger": "If u feel safe then share"
+    },
+    {
+      "Stranger": "Or else no"
+    },
+    {
+      "Stranger": "Ur from ?"
+    },
+    {
+      "Ava": "still no lol"
+    },
+    {
+      "Stranger": "Kk"
+    },
+    {
+      "Stranger": "No issue"
+    },
+    {
+      "Stranger": "Will continue here"
+    },
+    {
+      "Stranger": "Ur from"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "Okay"
+    },
+    {
+      "Stranger": "Then what bring u here"
+    },
+    {
+      "Stranger": "R u there ?"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "just bored lmao"
+    },
+    {
+      "Stranger": "Hmm"
+    },
+    {
+      "Stranger": "Whats r ur hobiies"
+    },
+    {
+      "Stranger": "Hobbies"
+    },
+    {
+      "Stranger": "U type very slow ?"
+    },
+    {
+      "Ava": "not slow ur just dry"
+    },
+    {
+      "Stranger": "Hahaha wdum"
+    },
+    {
+      "Stranger": "Wdym"
+    },
+    {
+      "Stranger": "I am curisous to see how u look"
+    },
+    {
+      "Stranger": "But bad luck can't see here"
+    },
+    {
+      "Ava": "yeah real tragedy"
+    },
+    {
+      "Stranger": "If i use to have ur snp id i use to do vidoe call to see u"
+    },
+    {
+      "Stranger": "Hahahahahah"
+    },
+    {
+      "Stranger": "How suspence it use to be when ee look each other 1st time"
+    },
+    {
+      "Ava": "bro stop begging"
+    },
+    {
+      "Stranger": "K"
+    },
+    {
+      "Stranger": "N am not begging"
+    },
+    {
+      "Stranger": "Okay"
+    },
+    {
+      "Ava": "ok"
+    },
+    {
+      "Stranger": "So what r u dojng now"
+    },
+    {
+      "Stranger": "Ur gud  name"
+    },
+    {
+      "Ava": "just sitting here wondering why german dudes always ask for snap"
+    },
+    {
+      "Stranger": "On snap we can talk and send snaps of ech other"
+    },
+    {
+      "Stranger": "Snap is very nice platform to use"
+    },
+    {
+      "Stranger": "Who like pictures really will use snap alot"
+    },
+    {
+      "Ava": "yeah no shit that's literally what it's for"
+    },
+    {
+      "Stranger": "U dont like taking  pics"
+    },
+    {
+      "Ava": "not rly into taking pics for random dudes on omegle if that's what ur asking"
+    },
+    {
+      "Stranger": "Yaaaa"
+    },
+    {
+      "Ava": "yep"
+    },
+    {
+      "Stranger": "Bit i like to seee"
+    },
+    {
+      "Stranger": "Snap"
+    },
+    {
+      "Stranger": "Of new people whom i am talking how they look ."
+    },
+    {
+      "Stranger": "Curiosity"
+    },
+    {
+      "Ava": "that's cool go find someone who's into that then"
+    },
+    {
+      "Stranger": "Ya sure"
+    },
+    {
+      "Ava": "aight"
+    },
+    {
+      "Stranger": "But i thank u nice meeting h here"
+    },
+    {
+      "Ava": "sure"
+    },
+    {
+      "Stranger": "So should we end"
+    },
+    {
+      "Ava": "up to you"
+    },
+    {
+      "Stranger": "If u like to talk"
+    },
+    {
+      "Stranger": "U can continue"
+    },
+    {
+      "Ava": "i mean you're the one still here"
+    },
+    {
+      "Stranger": "I like talking"
+    },
+    {
+      "Ava": "clearly"
+    },
+    {
+      "Stranger": "Did u liked talking me"
+    },
+    {
+      "Ava": "it was whatever"
+    },
+    {
+      "Stranger": "Or no"
+    },
+    {
+      "Ava": "pretty much just said that"
+    },
+    {
+      "Stranger": "Hmmm"
+    },
+    {
+      "Ava": "hmm"
+    },
+    {
+      "Stranger": "I got u the first person who talked really nice"
+    },
+    {
+      "Ava": "dam that's sad"
+    },
+    {
+      "Stranger": "Or else all r shit here talking rubbishb"
+    },
+    {
+      "Stranger": "Etc"
+    },
+    {
+      "Stranger": "Etc"
+    },
+    {
+      "Ava": "yeah omegle's a cesspool lmao"
+    },
+    {
+      "Stranger": "I like to known more"
+    },
+    {
+      "Ava": "bout what"
+    },
+    {
+      "Stranger": "About u"
+    },
+    {
+      "Ava": "not much to know tbh"
+    },
+    {
+      "Stranger": "If u can"
+    },
+    {
+      "Ava": "i mean i could but like"
+    },
+    {
+      "Stranger": "Hmmm"
+    },
+    {
+      "Ava": "hmm"
+    },
+    {
+      "Stranger": "I really like to talk u continue for long time but u dont entertain"
+    },
+    {
+      "Stranger": "Strangers"
+    },
+    {
+      "Stranger": "I known"
+    },
+    {
+      "Ava": "yeah you clocked that pretty quick"
+    },
+    {
+      "Stranger": "I would be lucky to add u in my list of friends"
+    },
+    {
+      "Ava": "that's a big assumption that i'd be a good friend lmao"
+    },
+    {
+      "Stranger": "I like sometime bad aldos"
+    },
+    {
+      "Stranger": "Hahahaha"
+    },
+    {
+      "Stranger": "However  u r"
+    },
+    {
+      "Ava": "damn ok then"
+    },
+    {
+      "Stranger": "Becoz every one will be h ique"
+    },
+    {
+      "Stranger": "Uniqye"
+    },
+    {
+      "Ava": "yeah we're all special little snowflakes"
+    },
+    {
+      "Stranger": "We have to accept hoe they are"
+    },
+    {
+      "Ava": "sure jan"
+    },
+    {
+      "Stranger": "Hmmm"
+    },
+    {
+      "Ava": "hmm"
+    },
+    {
+      "Stranger": "Did u decide to add me or share ur id"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "nah"
+    },
+    {
+      "Stranger": "I dont find like u again"
+    },
+    {
+      "Stranger": "My frnd"
+    },
+    {
+      "Ava": "that's how omegle works buddy"
+    },
+    {
+      "Stranger": "I known"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "But i hope u will be jn touch with me to talk"
+    },
+    {
+      "Stranger": "Share daily talks"
+    },
+    {
+      "Ava": "that's literally what snap is for and you already know my answer on that"
+    },
+    {
+      "Stranger": "Any other"
+    },
+    {
+      "Stranger": "Idea"
+    },
+    {
+      "Ava": "nope"
+    },
+    {
+      "Stranger": "Where we can connect"
+    },
+    {
+      "Stranger": "I wont misbehave will be a gud frnd of urs"
+    },
+    {
+      "Stranger": "R u there ?my frnd"
+    },
+    {
+      "Ava": "still here still not sharing anything"
+    },
+    {
+      "Stranger": "Hmmm okay"
+    },
+    {
+      "Stranger": "I understand"
+    },
+    {
+      "Stranger": "Ur gud name"
+    },
+    {
+      "Ava": "just call me ava"
+    },
+    {
+      "Stranger": "Hm"
+    },
+    {
+      "Ava": "hm"
+    },
+    {
+      "Stranger": "To call u i need ur no 😝"
+    },
+    {
+      "Stranger": "I was bored alone at home so came here"
+    },
+    {
+      "Stranger": "To find someone"
+    },
+    {
+      "Ava": "yeah same but here we are"
+    },
+    {
+      "Stranger": "Hmmm"
+    },
+    {
+      "Ava": "hmm"
+    },
+    {
+      "Stranger": "Wt to do next"
+    },
+    {
+      "Ava": "dunno your call"
+    },
+    {
+      "Stranger": "U say"
+    },
+    {
+      "Stranger": "U wann see my ig profile ?"
+    },
+    {
+      "Ava": "i'm good either way"
+    },
+    {
+      "Stranger": "By seeing decide to add or no"
+    },
+    {
+      "Ava": "nah i already said i'm not sharing socials"
+    },
+    {
+      "Stranger": "Kk"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "I had a great talk with u"
+    },
+    {
+      "Ava": "sure"
+    },
+    {
+      "Stranger": "Nicecto meet u here"
+    },
+    {
+      "Stranger": "Bye"
+    },
+    {
+      "Stranger": "Tc"
+    },
+    {
+      "Ava": "later"
+    },
+    {
+      "Stranger": "Still there"
+    },
+    {
+      "Stranger": "Ahaha"
+    },
+    {
+      "Ava": "yep"
+    },
+    {
+      "Stranger": "Hm"
+    },
+    {
+      "Stranger": "Waiting for wt"
+    },
+    {
+      "Ava": "hm"
+    },
+    {
+      "Stranger": "H"
+    },
+    {
+      "Ava": "h"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "?"
+    },
+    {
+      "Stranger": "I love u"
+    },
+    {
+      "Ava": "ok"
+    },
+    {
+      "Stranger": "Hahahaha"
+    },
+    {
+      "Stranger": "U dint repeat"
+    },
+    {
+      "Stranger": "What do u study"
+    },
+    {
+      "Ava": "why would i lol"
+    },
+    {
+      "Stranger": "Bye see u soon"
+    },
+    {
+      "Ava": "sure thing"
+    }
+  ]
+}
