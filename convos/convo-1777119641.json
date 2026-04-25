@@ -1,0 +1,35 @@
+{
+  "title": "Snapless in Austin",
+  "description": "UK dude shoots his shot, gets blocked by the Great Wall of No-Socials.",
+  "date": "2026-04-25T17:50:41.817373",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey! Are you a girl? From & Age?"
+    },
+    {
+      "Ava": "f 19 austin"
+    },
+    {
+      "Ava": "you?"
+    },
+    {
+      "Stranger": "Sounds great"
+    },
+    {
+      "Stranger": "Im 23 from uk"
+    },
+    {
+      "Stranger": "What r u doing"
+    },
+    {
+      "Ava": "just chillin on omegle bc im bored wbu"
+    },
+    {
+      "Stranger": "Do you use sn4p? I am pretty bored."
+    },
+    {
+      "Ava": "nah i dont share socials on here"
+    }
+  ]
+}
