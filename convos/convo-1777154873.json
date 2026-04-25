@@ -1,0 +1,32 @@
+{
+  "title": "Name? Age? Austin?",
+  "description": "Two strangers bonded by minimalism and the universal urge to overshare exactly zero details.",
+  "date": "2026-04-26T03:37:53.569568",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hi, m here, just chatting, whats your name?"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "nmae?"
+    },
+    {
+      "Ava": "ava"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Stranger": "mike"
+    },
+    {
+      "Ava": "19, austin"
+    }
+  ]
+}
