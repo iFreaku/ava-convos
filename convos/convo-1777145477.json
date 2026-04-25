@@ -1,0 +1,47 @@
+{
+  "title": "Austin vs. Masshole Romance",
+  "description": "Two strangers meet online, one just wants pizza, the other’s idea of fun is a surprise hoagie.",
+  "date": "2026-04-26T01:01:17.228942",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "23"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Stranger": "Where are you from?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Ava": "you?"
+    },
+    {
+      "Stranger": "Massachusetts USA"
+    },
+    {
+      "Stranger": "Here for ?"
+    },
+    {
+      "Stranger": "Wanna have some fun?"
+    }
+  ]
+}
