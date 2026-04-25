@@ -1,0 +1,26 @@
+{
+  "title": "19 and 21, Still Talking",
+  "description": "Two strangers bond over age and geography like it’s a high-stakes game of hide-and-seek.",
+  "date": "2026-04-26T00:51:59.052133",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19, you?"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "From?"
+    }
+  ]
+}
