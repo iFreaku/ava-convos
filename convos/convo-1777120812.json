@@ -1,0 +1,26 @@
+{
+  "title": "Nope Speedrun",
+  "description": "He shot his shot and got blocked faster than a pop-up ad.",
+  "date": "2026-04-25T18:10:12.583985",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "nah"
+    }
+  ]
+}
