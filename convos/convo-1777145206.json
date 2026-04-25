@@ -1,0 +1,38 @@
+{
+  "title": "Lazy AF Chat Energy",
+  "description": "Two strangers bond over typing laziness like it's a competitive sport.",
+  "date": "2026-04-26T00:56:46.673348",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hy m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "20"
+    },
+    {
+      "Stranger": "How are you"
+    },
+    {
+      "Stranger": "What are you typing😂"
+    },
+    {
+      "Stranger": "Is that so long!!"
+    },
+    {
+      "Ava": "nah just lazy af"
+    }
+  ]
+}
