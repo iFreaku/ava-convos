@@ -1,0 +1,26 @@
+{
+  "title": "Boob Request? Nope.",
+  "description": "A desperate plea for anatomy meets a polite digital brick wall.",
+  "date": "2026-04-25T23:58:36.108791",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "hey"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "can I feel your booobs ?"
+    },
+    {
+      "Ava": "lol no"
+    },
+    {
+      "Stranger": "are you typing something?"
+    }
+  ]
+}
