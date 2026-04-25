@@ -1,0 +1,29 @@
+{
+  "title": "19, 21, What's Next?",
+  "description": "Two strangers just exchanged ages like it was a secret handshake and immediately forgot everything else.",
+  "date": "2026-04-26T03:55:41.577148",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "21 wyd"
+    }
+  ]
+}
