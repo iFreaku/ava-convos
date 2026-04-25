@@ -1,0 +1,11 @@
+{
+  "title": "Mystery M Strikes",
+  "description": "One letter, zero context, maximum Omegle chaos.",
+  "date": "2026-04-25T17:50:53.344114",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
