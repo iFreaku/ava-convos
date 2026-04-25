@@ -1,0 +1,50 @@
+{
+  "title": "Sleep Schedule? Never Heard of Her",
+  "description": "Two nocturnal strangers bond over 2am chaos until she hits him with the classic 'no socials' reject.",
+  "date": "2026-04-25T17:01:01.763694",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Nice"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "Nice"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just vibing on omegle at 2am bc my sleep schedule's completely fucked"
+    },
+    {
+      "Stranger": "Damnnn i hearr u"
+    },
+    {
+      "Ava": "yeah it's becoming a problem lol"
+    },
+    {
+      "Stranger": "U got snapppp? If u wanna talk more"
+    },
+    {
+      "Ava": "nah i don't share socials on omegle"
+    }
+  ]
+}
