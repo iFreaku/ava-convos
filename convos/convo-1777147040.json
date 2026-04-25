@@ -1,0 +1,107 @@
+{
+  "title": "F's and Silence Drama",
+  "description": "A 19-year-old from Austin weaponizes one-letter replies until her Omegle stranger starts questioning her existence and language skills.",
+  "date": "2026-04-26T01:27:20.834903",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "I'm jack, wbu"
+    },
+    {
+      "Stranger": "Are you there?"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Kk"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Kk"
+    },
+    {
+      "Ava": "u good?"
+    },
+    {
+      "Stranger": "I'm pretty nice, wbu"
+    },
+    {
+      "Stranger": "Hru"
+    },
+    {
+      "Stranger": "What's your name"
+    },
+    {
+      "Ava": "ava"
+    },
+    {
+      "Stranger": "Cool name"
+    },
+    {
+      "Stranger": "Where are you from ava"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "Are you new here"
+    },
+    {
+      "Stranger": "Oh nice"
+    },
+    {
+      "Stranger": "Are you there?"
+    },
+    {
+      "Ava": "yeah"
+    },
+    {
+      "Stranger": "Are you busy or something?"
+    },
+    {
+      "Stranger": "Hey?"
+    },
+    {
+      "Stranger": "Are you into social?"
+    },
+    {
+      "Ava": "depends on the social"
+    },
+    {
+      "Stranger": "Like how"
+    },
+    {
+      "Stranger": "Are you not comfortable in English?"
+    },
+    {
+      "Stranger": "Or are you new here, ava?"
+    },
+    {
+      "Stranger": "You are talk to me in your comfortable language"
+    },
+    {
+      "Ava": "i’m fine in english"
+    },
+    {
+      "Stranger": "Kk, nice"
+    },
+    {
+      "Stranger": "So what's your problem to text me?"
+    }
+  ]
+}
