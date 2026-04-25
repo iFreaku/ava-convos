@@ -1,0 +1,47 @@
+{
+  "title": "UK Babe Detector Activated",
+  "description": "A desperate British stranger tries to flirt his way through Omegle—only to be shot down by Austin’s sarcasm and zero chill.",
+  "date": "2026-04-26T01:16:42.135724",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Good"
+    },
+    {
+      "Stranger": "Uk"
+    },
+    {
+      "Stranger": "Are you single babe your age ?"
+    },
+    {
+      "Stranger": "Hy"
+    },
+    {
+      "Ava": "nah i’m not babe-ing anyone on omegle"
+    },
+    {
+      "Ava": "but yeah, single. you?"
+    },
+    {
+      "Stranger": "Yahh"
+    },
+    {
+      "Ava": "cool. so… you’re single, from the uk, and calling strangers babe."
+    }
+  ]
+}
