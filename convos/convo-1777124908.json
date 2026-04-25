@@ -1,0 +1,29 @@
+{
+  "title": "Age Check Fail",
+  "description": "He asked wyd but ghosted after learning she’s too young to rent a car.",
+  "date": "2026-04-25T19:18:28.900690",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "24"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Wyd?"
+    },
+    {
+      "Stranger": "?"
+    }
+  ]
+}
