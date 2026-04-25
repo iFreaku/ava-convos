@@ -1,0 +1,59 @@
+{
+  "title": "Truth Flop",
+  "description": "Two strangers try to spice up Omegle, settle for PG truths and instant boredom.",
+  "date": "2026-04-25T17:59:45.305050",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "F or m"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "What brings you here?"
+    },
+    {
+      "Ava": "boredom and bad decisions mostly"
+    },
+    {
+      "Stranger": "Oh i see lol"
+    },
+    {
+      "Stranger": "Btw u wanna play one game?"
+    },
+    {
+      "Ava": "sure what game"
+    },
+    {
+      "Stranger": "Its truth or dare basically we shall keep only truths"
+    },
+    {
+      "Stranger": "If it sounds good to you"
+    },
+    {
+      "Stranger": "Umm yes?"
+    },
+    {
+      "Ava": "yeah ok go first"
+    },
+    {
+      "Stranger": "Shall we keep it simple or adult?"
+    },
+    {
+      "Ava": "keep it normal bro"
+    }
+  ]
+}
