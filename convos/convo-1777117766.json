@@ -1,0 +1,20 @@
+{
+  "title": "Age Check Fail",
+  "description": "30-year-old instantly vaporizes after learning you’re still a teenager.",
+  "date": "2026-04-25T17:19:26.290051",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "30m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
