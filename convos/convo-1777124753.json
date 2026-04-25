@@ -1,0 +1,14 @@
+{
+  "title": "Gender Reveal Gone Wrong",
+  "description": "One letter and the chat already feels like a Tinder bio written by a confused printer.",
+  "date": "2026-04-25T19:15:53.491542",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    }
+  ]
+}
