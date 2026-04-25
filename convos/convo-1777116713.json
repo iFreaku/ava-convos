@@ -1,0 +1,26 @@
+{
+  "title": "Texan Tease Timeout",
+  "description": "He asked ‘from?’—she answered Austin and he vanished faster than a tumbleweed in a tornado.",
+  "date": "2026-04-25T17:01:53.240355",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "austin texas"
+    }
+  ]
+}
