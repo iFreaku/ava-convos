@@ -1,0 +1,77 @@
+{
+  "title": "Snappin’ No Thanks",
+  "description": "Two bored souls chat for 30 seconds before one demands a Snapchat—only to be gently, stubbornly rejected like a lost sock in a dryer.",
+  "date": "2026-04-26T02:24:21.003285",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "Hii"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "Hru?"
+    },
+    {
+      "Stranger": "What brings you here?"
+    },
+    {
+      "Ava": "bored outta my mind"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Ok"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Stranger": "Snp?"
+    },
+    {
+      "Ava": "nope"
+    },
+    {
+      "Stranger": "Why?"
+    },
+    {
+      "Ava": "don’t share smth on omegle"
+    },
+    {
+      "Stranger": "You may block me at the end"
+    },
+    {
+      "Stranger": "Nvm"
+    },
+    {
+      "Ava": "lol u right"
+    },
+    {
+      "Stranger": "Yeah"
+    },
+    {
+      "Stranger": "Gimme"
+    },
+    {
+      "Ava": "gimme what"
+    },
+    {
+      "Stranger": "Snp"
+    },
+    {
+      "Ava": "no"
+    }
+  ]
+}
