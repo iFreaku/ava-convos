@@ -1,0 +1,20 @@
+{
+  "title": "Speedrun to Blocked",
+  "description": "He said ‘Hey m,’ I said ‘f 19,’ universe imploded.",
+  "date": "2026-04-25T18:44:48.258003",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
