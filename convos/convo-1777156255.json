@@ -1,0 +1,17 @@
+{
+  "title": "F. Done.",
+  "description": "A three-word conversation that broke Omegle’s soul and left everyone wondering if ‘F’ was a yes, a funeral, or a cry for help.",
+  "date": "2026-04-26T04:00:55.636812",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    }
+  ]
+}
