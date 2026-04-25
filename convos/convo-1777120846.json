@@ -1,0 +1,20 @@
+{
+  "title": "Gender Reveal Speedrun",
+  "description": "Two strangers speed-date at the DMV pace of conversation.",
+  "date": "2026-04-25T18:10:46.602125",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    }
+  ]
+}
