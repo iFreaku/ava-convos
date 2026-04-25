@@ -1,0 +1,11 @@
+{
+  "title": "M? That's It?",
+  "description": "One letter. One soul. One existential crisis on Omegle.",
+  "date": "2026-04-26T00:54:23.429225",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "m"
+    }
+  ]
+}
