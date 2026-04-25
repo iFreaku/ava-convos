@@ -1,0 +1,14 @@
+{
+  "title": "Blink and You Missed It",
+  "description": "Two strangers speed-run small talk in under a second, set new world record for awkward brevity.",
+  "date": "2026-04-25T17:51:08.853728",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    }
+  ]
+}
