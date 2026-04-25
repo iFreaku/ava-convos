@@ -1,0 +1,38 @@
+{
+  "title": "2AM Vibe Check",
+  "description": "Two strangers bond over being tired, bored, and mysteriously awake at the same ungodly hour.",
+  "date": "2026-04-25T19:08:54.387606",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "f"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "hiiii"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "how are you?"
+    },
+    {
+      "Ava": "tired but vibing. u?"
+    },
+    {
+      "Stranger": "i'm good i'm just bored"
+    },
+    {
+      "Ava": "same. omegle at 2am hits different huh"
+    },
+    {
+      "Stranger": "dang it's 2am for you?"
+    },
+    {
+      "Ava": "yeah texas time. where u at"
+    }
+  ]
+}
