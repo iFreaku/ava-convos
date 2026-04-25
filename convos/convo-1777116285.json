@@ -1,0 +1,23 @@
+{
+  "title": "Austin Powers Down",
+  "description": "He said M, she said f, then Texas hit mute.",
+  "date": "2026-04-25T16:54:45.156180",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "Where from"
+    },
+    {
+      "Ava": "austin"
+    }
+  ]
+}
