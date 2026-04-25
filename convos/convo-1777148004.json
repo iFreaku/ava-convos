@@ -1,0 +1,68 @@
+{
+  "title": "Ghosted by a GIF",
+  "description": "A 19-year-old from Austin accidentally started a one-sided existential crisis with a stranger who just really wanted a Snapchat friend.",
+  "date": "2026-04-26T01:43:24.747344",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Stranger": "Hello?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "Wow"
+    },
+    {
+      "Stranger": "What are you"
+    },
+    {
+      "Stranger": "Doing"
+    },
+    {
+      "Stranger": "Damn what are you typing"
+    },
+    {
+      "Ava": "nothing rn"
+    },
+    {
+      "Stranger": {
+        "type": "gif",
+        "url": "https://omegleapp.me/_next/image/?url=https%3A%2F%2Fmedia.tenor.com%2F0y6PonVosNEAAAAM%2Ffunny-very.gif&w=384&q=75"
+      }
+    },
+    {
+      "Stranger": "Haha"
+    },
+    {
+      "Stranger": "Do you have snap?"
+    },
+    {
+      "Stranger": "Hello?"
+    },
+    {
+      "Stranger": "Snapchat??"
+    },
+    {
+      "Stranger": "Hello"
+    },
+    {
+      "Stranger": "🫠"
+    }
+  ]
+}
