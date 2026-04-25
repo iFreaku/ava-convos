@@ -1,0 +1,11 @@
+{
+  "title": "He Listed His Size First",
+  "description": "Omegle stranger treated his bio like a dating app profile… and we’re all just trying to process the 7.3\" footnote.",
+  "date": "2026-04-26T03:36:45.093686",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hi, this is Kenn. I'm 5'10\" black hair, brown eyes, average built, 7.3\" big and light brown skin toned. what about you?"
+    }
+  ]
+}
