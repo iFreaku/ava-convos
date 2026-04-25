@@ -1,0 +1,23 @@
+{
+  "title": "F-minus Flirt Fail",
+  "description": "Two strangers speed-run romance, achieve mutual F and ghost in under 3 seconds.",
+  "date": "2026-04-25T16:50:29.774132",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "F"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Ava": "austin"
+    }
+  ]
+}
