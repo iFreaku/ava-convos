@@ -1,0 +1,23 @@
+{
+  "title": "19, 18, Zero Plans",
+  "description": "Two teens bonded over nothing but age and existential silence.",
+  "date": "2026-04-26T04:09:30.502449",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hi m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19, you?"
+    },
+    {
+      "Stranger": "18 wyd"
+    }
+  ]
+}
