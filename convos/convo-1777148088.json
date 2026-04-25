@@ -1,0 +1,17 @@
+{
+  "title": "Age Check: 17?",
+  "description": "Stranger dropped their age like it was a bomb—and now the chat is awkwardly frozen in middle school.",
+  "date": "2026-04-26T01:44:48.104576",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "17"
+    }
+  ]
+}
