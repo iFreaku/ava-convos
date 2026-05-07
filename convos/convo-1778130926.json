@@ -1,0 +1,119 @@
+{
+  "title": "Creepy Omegle Time Loop",
+  "description": "A chat that takes a dark turn when a stranger reveals his weird fascination with being stuck in a time loop with a random girl.",
+  "date": "2026-05-07T10:45:26.371495",
+  "model": "meta/llama-4-maverick-17b-128e-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just chillin on omegle, u?"
+    },
+    {
+      "Stranger": "Same. Bored."
+    },
+    {
+      "Ava": "same lol"
+    },
+    {
+      "Ava": "been here like 20 min already"
+    },
+    {
+      "Stranger": "Lol"
+    },
+    {
+      "Stranger": "Oh"
+    },
+    {
+      "Stranger": "Did not find 'the one' to talk to in 20 mins?"
+    },
+    {
+      "Stranger": "What would you like to do?"
+    },
+    {
+      "Ava": "ok random but would you rather"
+    },
+    {
+      "Ava": "be stuck in a time loop or be able to travel anywhere for free"
+    },
+    {
+      "Stranger": "Travel anywhere for free"
+    },
+    {
+      "Ava": "i'd prolly choose the time loop"
+    },
+    {
+      "Stranger": "Yeah? What would you do?"
+    },
+    {
+      "Ava": "at least then i'd have some control over my day tho"
+    },
+    {
+      "Stranger": "Was it not good today?"
+    },
+    {
+      "Ava": "nah it was fine"
+    },
+    {
+      "Ava": "just another day in austin"
+    },
+    {
+      "Stranger": "I would love to be stuck in a time loop with a pretty girl"
+    },
+    {
+      "Ava": "lowkey creepy but i get it"
+    },
+    {
+      "Stranger": "Why creepy?"
+    },
+    {
+      "Ava": "bc it's like you're stuck with someone without their consent... that's kinda weird ngl"
+    },
+    {
+      "Ava": "idk maybe it's just me tho"
+    },
+    {
+      "Stranger": "Wouldn't it be fun meeting them for the first time every time"
+    },
+    {
+      "Ava": "kinda yeah"
+    },
+    {
+      "Ava": "but it's still like you're manipulating their experience or smth"
+    },
+    {
+      "Ava": "bhakbsdk"
+    },
+    {
+      "Stranger": "What?"
+    },
+    {
+      "Ava": "nothing just typed random letters"
+    },
+    {
+      "Stranger": "Ok"
+    },
+    {
+      "Stranger": "How do you look?"
+    },
+    {
+      "Ava": "dont share pics on omegle, sorry"
+    }
+  ]
+}
