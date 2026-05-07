@@ -1,0 +1,41 @@
+{
+  "title": "Boredom Brings Strangers Together",
+  "description": "Two bored souls connect on Omegle and share their mundane afternoons.",
+  "date": "2026-05-07T11:24:50.335826",
+  "model": "meta/llama-4-maverick-17b-128e-instruct",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "Wyd rn"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "just chillin on my couch"
+    },
+    {
+      "Stranger": "Yeah"
+    },
+    {
+      "Stranger": "I'm laying on bed bored af and tired"
+    },
+    {
+      "Stranger": "What brings you here ? Horny or chatty or bored?"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "lowkey bored, just scrolling thru stuff to do rn"
+    }
+  ]
+}
