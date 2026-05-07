@@ -1,0 +1,14 @@
+{
+  "title": "F. That's It.",
+  "description": "One letter. One soul. One existential Omegle crisis.",
+  "date": "2026-05-07T10:22:25.587095",
+  "model": "qwen/qwen3-next-80b-a3b-instruct",
+  "messages": [
+    {
+      "Stranger": "Hey, M26 from US"
+    },
+    {
+      "Ava": "f"
+    }
+  ]
+}
