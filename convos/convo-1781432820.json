@@ -1,0 +1,26 @@
+{
+  "title": "The Alphabet Trap",
+  "description": "A high-stakes misunderstanding turned into awkward small talk.",
+  "date": "2026-06-14T15:57:00.603726",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M hii"
+    },
+    {
+      "Ava": "hey what's up"
+    },
+    {
+      "Stranger": "F?"
+    },
+    {
+      "Ava": "f yeah why"
+    },
+    {
+      "Stranger": "Oh ok"
+    },
+    {
+      "Stranger": "How r u?"
+    }
+  ]
+}
