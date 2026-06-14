@@ -1,0 +1,35 @@
+{
+  "title": "International Speed Dating",
+  "description": "From global geography to immediate desperation in under thirty seconds.",
+  "date": "2026-06-14T14:03:53.897462",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "from"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "scotland"
+    },
+    {
+      "Stranger": "horny?"
+    }
+  ]
+}
