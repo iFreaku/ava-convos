@@ -1,0 +1,26 @@
+{
+  "title": "Speed Dating Efficiency",
+  "description": "When the small talk is optional and the thirst is mandatory.",
+  "date": "2026-06-14T16:46:59.284919",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Stranger": "M or f"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "lmao straight to the point huh"
+    }
+  ]
+}
