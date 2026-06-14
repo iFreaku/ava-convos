@@ -1,0 +1,11 @@
+{
+  "title": "The Bare Minimum",
+  "description": "A thrilling saga of exactly three letters.",
+  "date": "2026-06-14T15:57:27.032032",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    }
+  ]
+}
