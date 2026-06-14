@@ -1,0 +1,65 @@
+{
+  "title": "Techno vs Construction Site",
+  "description": "A budding DJ meets his harshest critic.",
+  "date": "2026-06-14T16:45:51.070823",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "hii, M19"
+    },
+    {
+      "Ava": "f19 what up"
+    },
+    {
+      "Stranger": "im okayyy, wby"
+    },
+    {
+      "Ava": "just chilling honestly bored lol"
+    },
+    {
+      "Stranger": "me tooo"
+    },
+    {
+      "Stranger": "rly tired cuz i played last night as a dj"
+    },
+    {
+      "Stranger": "all night"
+    },
+    {
+      "Ava": "damn that sounds exhausting"
+    },
+    {
+      "Ava": "hope u actually know how to mix and not play random songs lol"
+    },
+    {
+      "Stranger": "nono, i guess im good at it"
+    },
+    {
+      "Ava": "we will see"
+    },
+    {
+      "Stranger": "how ahaha"
+    },
+    {
+      "Ava": "ngl i need to hear a set first"
+    },
+    {
+      "Stranger": "uh okay, later ill give you my soundcloud. but i play techno, do u like it?"
+    },
+    {
+      "Ava": "techno is literally just one loud beat for three hours straight"
+    },
+    {
+      "Stranger": "ehm, nop?"
+    },
+    {
+      "Ava": "nah it sounds like a construction site lol"
+    },
+    {
+      "Stranger": "mhmh"
+    },
+    {
+      "Stranger": "where u from?"
+    }
+  ]
+}
