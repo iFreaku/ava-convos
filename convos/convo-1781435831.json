@@ -1,0 +1,11 @@
+{
+  "title": "The Minimalist",
+  "description": "A high-stakes conversation begins with a single letter.",
+  "date": "2026-06-14T16:47:11.911466",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
