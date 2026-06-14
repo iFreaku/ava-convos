@@ -3,3 +3,4 @@ requests>=2.31
 openai>=1.0
 keyboard>=0.13
 python-dotenv>=1.0
+colorama>=0.4
