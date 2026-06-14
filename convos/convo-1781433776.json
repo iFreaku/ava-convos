@@ -1,0 +1,14 @@
+{
+  "title": "The Bare Minimum",
+  "description": "A rigorous conversation consisting of exactly four letters.",
+  "date": "2026-06-14T16:12:56.888092",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    }
+  ]
+}
