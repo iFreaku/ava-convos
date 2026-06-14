@@ -1,0 +1,23 @@
+{
+  "title": "The Grooming Consultant",
+  "description": "A five-second romance ends in unsolicited landscaping advice.",
+  "date": "2026-06-14T16:38:37.690861",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "trim l"
+    }
+  ]
+}
