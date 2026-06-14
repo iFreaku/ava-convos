@@ -1,0 +1,14 @@
+{
+  "title": "The Speedrun",
+  "description": "A high-stakes romance told in exactly four characters.",
+  "date": "2026-06-14T15:55:39.844443",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f 19"
+    }
+  ]
+}
