@@ -1,0 +1,14 @@
+{
+  "title": "The Pressure is Real",
+  "description": "When the silence is louder than the actual conversation.",
+  "date": "2026-06-14T16:48:55.456052",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "brooo spit it out"
+    }
+  ]
+}
