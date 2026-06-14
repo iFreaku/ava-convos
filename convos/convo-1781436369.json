@@ -1,0 +1,38 @@
+{
+  "title": "Existential Age Crisis",
+  "description": "The awkward moment you realize twenty-one feels like retirement age.",
+  "date": "2026-06-14T16:56:09.467593",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "f lol what up"
+    },
+    {
+      "Stranger": "Just bored wbu"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Ava": "nice"
+    },
+    {
+      "Ava": "what u actually do with 21 lol"
+    },
+    {
+      "Stranger": "Huh"
+    }
+  ]
+}
