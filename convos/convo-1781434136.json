@@ -1,0 +1,89 @@
+{
+  "title": "Rotting Together Online",
+  "description": "Two professional procrastinators finding common ground in shared laziness.",
+  "date": "2026-06-14T16:18:56.847824",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "22. From?"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Nice"
+    },
+    {
+      "Stranger": "Uk"
+    },
+    {
+      "Stranger": "Wyd?"
+    },
+    {
+      "Ava": "just rotting on my phone lol"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "lol same"
+    },
+    {
+      "Stranger": "What’s your name"
+    },
+    {
+      "Ava": "ava"
+    },
+    {
+      "Stranger": "Cute"
+    },
+    {
+      "Stranger": "Joe"
+    },
+    {
+      "Ava": "thanks same 2 u"
+    },
+    {
+      "Stranger": "Thanks"
+    },
+    {
+      "Stranger": "You on snap?"
+    },
+    {
+      "Ava": "nah i don't give it out on here"
+    },
+    {
+      "Stranger": "Fair enough lol"
+    },
+    {
+      "Stranger": "You do any sports?"
+    },
+    {
+      "Ava": "nah really"
+    },
+    {
+      "Ava": "too lazy to run around lol"
+    },
+    {
+      "Stranger": "Ha lol fair enough"
+    },
+    {
+      "Ava": "so what u actually do then besides being on omegle"
+    }
+  ]
+}
