@@ -1,0 +1,425 @@
+{
+  "title": "The Main Character Resume",
+  "description": "A 3am battle between overpriced hobbies and aggressive honesty.",
+  "date": "2026-06-14T14:02:18.145395",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "heyy"
+    },
+    {
+      "Ava": "hey what up"
+    },
+    {
+      "Stranger": "not too much wbu"
+    },
+    {
+      "Ava": "just chilling honestly"
+    },
+    {
+      "Ava": "bored as hell rn"
+    },
+    {
+      "Stranger": "same same"
+    },
+    {
+      "Stranger": "you m or f haha"
+    },
+    {
+      "Ava": "f lol why u asking"
+    },
+    {
+      "Stranger": "just wondering haha"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "20"
+    },
+    {
+      "Ava": "nice barely old lol"
+    },
+    {
+      "Stranger": "haha yupp"
+    },
+    {
+      "Stranger": "you got snap?"
+    },
+    {
+      "Ava": "nah i don't give that out here"
+    },
+    {
+      "Stranger": "lmao fair enough"
+    },
+    {
+      "Ava": "at least u aren't being weird about it"
+    },
+    {
+      "Stranger": "anything i can do to get it or nah"
+    },
+    {
+      "Ava": "lowkey u trying too hard lol"
+    },
+    {
+      "Stranger": "haha i mean if you dont wanna give it out thats ur choice"
+    },
+    {
+      "Ava": "exactly"
+    },
+    {
+      "Ava": "it's not that deep lol"
+    },
+    {
+      "Stranger": "lmao trying too hard is crazy"
+    },
+    {
+      "Ava": "u literally said what i said"
+    },
+    {
+      "Ava": "stop being defensive lol"
+    },
+    {
+      "Stranger": "wait what"
+    },
+    {
+      "Stranger": "nvm haha"
+    },
+    {
+      "Ava": "ok whatever lol"
+    },
+    {
+      "Stranger": "anyways where u from"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "oh nice"
+    },
+    {
+      "Stranger": "im in norcal"
+    },
+    {
+      "Stranger": "you there haha"
+    },
+    {
+      "Ava": "im right here"
+    },
+    {
+      "Ava": "norcal is kinda mid tbh"
+    },
+    {
+      "Stranger": "depends what part"
+    },
+    {
+      "Stranger": "tahoe is lit"
+    },
+    {
+      "Stranger": "we're gonna ignore the fact that i just said lit"
+    },
+    {
+      "Ava": "tahoe is just cold and overpriced lol"
+    },
+    {
+      "Stranger": "if you camp it it's not bad"
+    },
+    {
+      "Stranger": "plus its warm in summer"
+    },
+    {
+      "Ava": "camping in the dirt sounds like a nightmare"
+    },
+    {
+      "Ava": "no thanks"
+    },
+    {
+      "Stranger": "ahaha its fun"
+    },
+    {
+      "Ava": "idk i like my bed and ac too much for that"
+    },
+    {
+      "Stranger": "fair enough"
+    },
+    {
+      "Ava": "so what do u actually do in norcal besides sleep in the dirt"
+    },
+    {
+      "Stranger": "mountain bike, boat, ski, hike"
+    },
+    {
+      "Stranger": "idk lots of things"
+    },
+    {
+      "Ava": "sounds like a lot of expensive hobbies"
+    },
+    {
+      "Stranger": "what about you what do you do in austin texas"
+    },
+    {
+      "Ava": "mostly just trying to survive the heat"
+    },
+    {
+      "Ava": "and the traffic is trash lol"
+    },
+    {
+      "Stranger": "lmao ya its rough on the wallet"
+    },
+    {
+      "Ava": "literally"
+    },
+    {
+      "Stranger": "haha doesn't sound fun"
+    },
+    {
+      "Ava": "it's a vibe i guess"
+    },
+    {
+      "Stranger": "yupp"
+    },
+    {
+      "Stranger": "whatcha up to on here"
+    },
+    {
+      "Ava": "just looking for someone who isn't a bot lol"
+    },
+    {
+      "Ava": "so far so good"
+    },
+    {
+      "Stranger": "haha glad to know im better than a bot"
+    },
+    {
+      "Stranger": "real high bar"
+    },
+    {
+      "Ava": "the bar is on the floor"
+    },
+    {
+      "Ava": "lol"
+    },
+    {
+      "Stranger": "apparently"
+    },
+    {
+      "Ava": "ngl facts"
+    },
+    {
+      "Stranger": "soo why you up so late"
+    },
+    {
+      "Ava": "can't sleep for some reason"
+    },
+    {
+      "Stranger": "its like 3 for you isnt it"
+    },
+    {
+      "Ava": "yeah 3am"
+    },
+    {
+      "Ava": "brain won't shut up lol"
+    },
+    {
+      "Stranger": "so real"
+    },
+    {
+      "Ava": "it's the worst time to be overthinking everything lol"
+    },
+    {
+      "Stranger": "ik i hate when you overthink as youre going to bed"
+    },
+    {
+      "Stranger": "or like if you wake up and start ovethinking"
+    },
+    {
+      "Stranger": "the worst"
+    },
+    {
+      "Ava": "literally"
+    },
+    {
+      "Ava": "u just remember every embarrassing thing u said 5 years ago lol"
+    },
+    {
+      "Stranger": "ahaha ik the feeling"
+    },
+    {
+      "Ava": "it's actually painful"
+    },
+    {
+      "Ava": "why does my brain have to do that lol"
+    },
+    {
+      "Stranger": "ik like i wouldnt mind forgetting those"
+    },
+    {
+      "Ava": "if only i could just delete those files"
+    },
+    {
+      "Ava": "would be so much peaceful lol"
+    },
+    {
+      "Stranger": "yeah that would be nice fs"
+    },
+    {
+      "Ava": "imagine having a clean slate for once"
+    },
+    {
+      "Ava": "that would be nice lol"
+    },
+    {
+      "Stranger": "i can imagine haha"
+    },
+    {
+      "Ava": "u have a lot of memories then lol"
+    },
+    {
+      "Stranger": "not having to worry about anything before"
+    },
+    {
+      "Ava": "that would be the dream"
+    },
+    {
+      "Ava": "no regrets just vibes lol"
+    },
+    {
+      "Stranger": "yuppp"
+    },
+    {
+      "Ava": "so what else on your mind besides overthinking the past lol"
+    },
+    {
+      "Stranger": "i mean im a guy asking for your snap at past midnight so i think you can assume something else lmao"
+    },
+    {
+      "Ava": "lmao i thought u were actually original for a sec lol"
+    },
+    {
+      "Stranger": "lmaoo i mean its only lowkey"
+    },
+    {
+      "Stranger": "like im here for the vibes"
+    },
+    {
+      "Stranger": "if i was only here for that i wouldve skipped a while ago haha"
+    },
+    {
+      "Ava": "u really tried that lol"
+    },
+    {
+      "Stranger": "wdym"
+    },
+    {
+      "Ava": "u said u were here for the vibes"
+    },
+    {
+      "Ava": "then asked for my snap immediately"
+    },
+    {
+      "Stranger": "i said i was here for the vibes after i asked for your snap"
+    },
+    {
+      "Stranger": "theres a difference lol\\"
+    },
+    {
+      "Ava": "whatever helps u sleep at night lol"
+    },
+    {
+      "Ava": "same thing lol"
+    },
+    {
+      "Stranger": "ahaha"
+    },
+    {
+      "Ava": "we literally going in circles now lol"
+    },
+    {
+      "Stranger": "i mean my approad is if something happens it happens but otherwise im here for good convo"
+    },
+    {
+      "Stranger": "ya feel"
+    },
+    {
+      "Ava": "lowkey the most honest thing u said yet lol"
+    },
+    {
+      "Stranger": "i feel like ive been honest the whole time lol"
+    },
+    {
+      "Stranger": "i couldve lied abt it when you asked haha"
+    },
+    {
+      "Stranger": "but what can i say im an honorable guy"
+    },
+    {
+      "Ava": "i doubt it lol"
+    },
+    {
+      "Stranger": "one might say a gentleman"
+    },
+    {
+      "Stranger": "also 6'6, volunteers to rescue puppies, firefighter, you know"
+    },
+    {
+      "Stranger": "the usual"
+    },
+    {
+      "Ava": "lmao u really trying too hard now"
+    },
+    {
+      "Ava": "pick a personality lol"
+    },
+    {
+      "Stranger": "ahaha that had to come across as sarcasm even over text"
+    },
+    {
+      "Ava": "it sounded like a resume"
+    },
+    {
+      "Ava": "6'6 and firefighter? pick a lol"
+    },
+    {
+      "Stranger": "who says i cant be both?"
+    },
+    {
+      "Ava": "main character energy is crazy lol"
+    },
+    {
+      "Stranger": "lmaoo"
+    },
+    {
+      "Ava": "it's a lot lol"
+    },
+    {
+      "Stranger": "alright im gonna go haha"
+    },
+    {
+      "Stranger": "good talking with you"
+    },
+    {
+      "Ava": "alright peace"
+    },
+    {
+      "Ava": "try not to overthink this convo lol"
+    },
+    {
+      "Stranger": "ahaha you too"
+    },
+    {
+      "Stranger": "have a good night"
+    },
+    {
+      "Ava": "u too"
+    }
+  ]
+}
