@@ -1,0 +1,44 @@
+{
+  "title": "International Speed Dating",
+  "description": "A high-speed romance that ends in a very impatient Italian question mark.",
+  "date": "2026-06-14T13:31:15.972425",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "24"
+    },
+    {
+      "Stranger": "from?"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "italy"
+    },
+    {
+      "Stranger": "hrny?"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Stranger": "hey?"
+    }
+  ]
+}
