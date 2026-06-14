@@ -1,0 +1,53 @@
+{
+  "title": "Consulting and Rejected",
+  "description": "The corporate pitch for romance ends with a digital wall.",
+  "date": "2026-06-14T15:31:19.453456",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "hi m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "from?"
+    },
+    {
+      "Ava": "austin texas u?"
+    },
+    {
+      "Stranger": "miami"
+    },
+    {
+      "Stranger": "age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "22"
+    },
+    {
+      "Stranger": "niceee"
+    },
+    {
+      "Ava": "cool what are u doing in miami anyway"
+    },
+    {
+      "Stranger": "working"
+    },
+    {
+      "Stranger": "I’m in consulting"
+    },
+    {
+      "Stranger": "you got snap?"
+    },
+    {
+      "Ava": "nah i don't give my snap on here"
+    }
+  ]
+}
