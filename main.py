@@ -9,10 +9,43 @@ import json
 from collections import defaultdict
 from datetime import datetime
 import re
+import urllib.parse
+import openai
 from openai import OpenAI
 from dotenv import load_dotenv
+from colorama import init, Fore, Style
 
 load_dotenv()
+
+init()
+
+
+def rgb(hex_color, text):
+    r, g, b = int(hex_color[1:3], 16), int(hex_color[3:5], 16), int(hex_color[5:7], 16)
+    return f"\033[38;2;{r};{g};{b}m{text}\033[0m"
+
+
+def log_info(msg):
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
+
+
+def log_ok(msg):
+    print(f"{Fore.GREEN}[{datetime.now().strftime('%H:%M:%S')}]{Style.RESET_ALL} {msg}")
+
+
+def log_warn(msg):
+    print(
+        f"{Fore.YELLOW}[{datetime.now().strftime('%H:%M:%S')}]{Style.RESET_ALL} {msg}"
+    )
+
+
+def log_error(msg):
+    print(f"{Fore.RED}[{datetime.now().strftime('%H:%M:%S')}]{Style.RESET_ALL} {msg}")
+
+
+def log_debug(msg):
+    print(f"{Fore.CYAN}[{datetime.now().strftime('%H:%M:%S')}]{Style.RESET_ALL} {msg}")
+
 
 app = Flask(__name__)
 
@@ -151,7 +184,7 @@ class MemorySystem:
         for k in keys_to_delete:
             del self.user_profiles[k]
 
-        print(f"[MEMORY] reset for {chat_name}")
+        log_info(f"[MEMORY] reset {chat_name}")
 
 
 memory = MemorySystem()
@@ -288,15 +321,19 @@ def generate_reply(messages, model=None):
             return result
 
         except (requests.exceptions.RequestException, openai.APIError) as e:
-            print(f"[RETRY] attempt {attempt + 1} failed: {e}")
+            log_warn(f"[RETRY] attempt {attempt + 1}/3: {e}")
             if attempt < 2:
                 time.sleep(1)
 
-    print("[ERROR] all retries exhausted")
+    log_error("[RETRY] all 3 attempts exhausted")
     return None
 
 
 def upload_to_github(filename, content_dict):
+    if not GITHUB_TOKEN:
+        log_warn("[GITHUB] GITHUB_TOKEN not set, skipping upload")
+        return False
+
     content_b64 = base64.b64encode(
         json.dumps(content_dict, indent=2, ensure_ascii=False).encode()
     ).decode()
@@ -312,7 +349,10 @@ def upload_to_github(filename, content_dict):
             "branch": GITHUB_BRANCH,
         },
     )
-    print(f"[GITHUB] {res.status_code} → {filename}")
+    if res.status_code in [200, 201]:
+        log_ok(f"[GITHUB] {filename} → {res.status_code}")
+    else:
+        log_warn(f"[GITHUB] {filename} → {res.status_code}")
     return res.status_code in [200, 201]
 
 
@@ -333,6 +373,20 @@ def clean_json_response(raw):
         if raw.startswith("json"):
             raw = raw[4:]
     return raw.strip()
+
+
+def resolve_gif_url(proxy_url):
+    try:
+        parsed = urllib.parse.urlparse(proxy_url)
+        real_url = urllib.parse.parse_qs(parsed.query).get("url", [proxy_url])[0]
+        resp = requests.get(real_url, timeout=10)
+        resp.raise_for_status()
+        mime = resp.headers.get("content-type", "image/gif")
+        encoded = base64.b64encode(resp.content).decode()
+        return f"data:{mime};base64,{encoded}"
+    except Exception as e:
+        log_warn(f"[GIF] failed to resolve proxy URL: {e}")
+        return proxy_url
 
 
 # ── Routes ────────────────────────────────────────────────────────────────────
@@ -366,12 +420,13 @@ def generate_reply_endpoint():
             role = "assistant" if sender == "You" else "user"
 
             if msg.get("type") == "gif" and msg.get("gifUrl"):
+                gif_data_url = resolve_gif_url(msg["gifUrl"])
                 messages.append(
                     {
                         "role": role,
                         "content": [
                             {"type": "text", "text": f"{sender}: [sent a GIF]"},
-                            {"type": "image_url", "image_url": {"url": msg["gifUrl"]}},
+                            {"type": "image_url", "image_url": {"url": gif_data_url}},
                         ],
                     }
                 )
@@ -381,25 +436,39 @@ def generate_reply_endpoint():
                 else:
                     messages.append({"role": "user", "content": f"{sender}: {text}"})
 
-        print(f"\n{'=' * 50}")
-        print(
-            f"[CHAT] {chat_name} | [MOOD] {memory.detect_mood(history)} | [ARC] {memory.get_conversation_arc(history)}"
-        )
-        print(f"[MSGS] {len(history)}")
-        print(f"{'=' * 50}")
+        mood = memory.detect_mood(history)
+        arc = memory.get_conversation_arc(history)
+        log_info(f"[CHAT] {chat_name} — {len(history)} msgs, mood={mood}, arc={arc}")
 
         reply = generate_reply(messages)
 
         if not reply:
             return jsonify({"replies": []})
 
-        print(f"[RAW REPLY] {reply}")
+        log_debug(f"[RAW] {reply}")
         replies = split_into_replies(reply)
-        print(f"[SPLIT REPLIES] {replies}")
+        log_info(f"[SPLIT] {replies}")
+
+        print("─" * 44)
+        last_stranger_msg = None
+        for msg in reversed(history):
+            if msg.get("sender") != "You":
+                if msg.get("type") == "gif":
+                    last_stranger_msg = "[sent a GIF]"
+                else:
+                    last_stranger_msg = msg.get("message", "")
+                break
+        if last_stranger_msg:
+            print(rgb("#E24B3C", " Stranger:"), end="")
+            print(f" {last_stranger_msg}")
+        for r in replies:
+            print(rgb("#45C1FF", " Ava:"), end="")
+            print(f" {r}")
+
         return jsonify({"replies": replies})
 
     except Exception as e:
-        print(f"[ERROR] {e}")
+        log_error(f"[ENDPOINT] generate_reply: {e}")
         import traceback
 
         traceback.print_exc()
@@ -448,8 +517,8 @@ def save_convo():
         try:
             meta = json.loads(raw)
         except json.JSONDecodeError as e:
-            print(f"[SAVE ERROR] Failed to parse meta JSON: {e}")
-            print(f"[SAVE ERROR] Raw was: {raw[:200]}")
+            log_error(f"[SAVE] JSON parse failed: {e}")
+            log_debug(f"[SAVE] raw meta: {raw[:200]}")
             return jsonify({"error": "failed to parse metadata"}), 500
 
         meta["title"] = filter_pii(meta.get("title", "Untitled"))
@@ -474,11 +543,14 @@ def save_convo():
         }
 
         success = upload_to_github(filename, convo_data)
-        print(f"[SAVED] {filename} {'✅' if success else '❌'}")
+        if success:
+            log_ok(f"[SAVE] {filename} uploaded")
+        else:
+            log_warn(f"[SAVE] {filename} upload failed")
         return jsonify({"ok": success, "filename": filename})
 
     except Exception as e:
-        print(f"[SAVE ERROR] {e}")
+        log_error(f"[SAVE] /save_convo: {e}")
         import traceback
 
         traceback.print_exc()
@@ -507,14 +579,14 @@ def reset():
 
 def check_fail_safe():
     keyboard.wait("ctrl+q")
-    print("\n[STOP] Stopping server...")
+    log_info("[STOP] shutting down")
     os._exit(0)
 
 
 threading.Thread(target=check_fail_safe, daemon=True).start()
 
 if __name__ == "__main__":
-    print("[START] Ava Autonomous AI Active")
-    print("[KEY] Press CTRL + Q to stop")
-    print("[INFO] Stats available at /stats endpoint")
+    log_info("[START] Ava Autonomous AI Active")
+    log_info("[KEY] Press CTRL + Q to stop")
+    log_info("[STATS] /stats endpoint ready")
     app.run(port=5000, debug=False, use_reloader=False)
