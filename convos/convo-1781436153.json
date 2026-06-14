@@ -1,0 +1,47 @@
+{
+  "title": "Family Tree Knot",
+  "description": "I came for a chat and left with a therapy referral.",
+  "date": "2026-06-14T16:52:33.381740",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hii"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "Thoughts on incest?"
+    },
+    {
+      "Ava": "ngl thats weird as hell"
+    },
+    {
+      "Stranger": "My fam is a incest family"
+    },
+    {
+      "Stranger": "Me dad mum sis"
+    },
+    {
+      "Ava": "y are you even telling me this"
+    },
+    {
+      "Ava": "that is actually terrifying"
+    }
+  ]
+}
