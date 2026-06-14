@@ -1,0 +1,32 @@
+{
+  "title": "Austin Rejection",
+  "description": "A five-second romance that ended in a swift exit.",
+  "date": "2026-06-14T16:38:10.205606",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Horny ?"
+    },
+    {
+      "Ava": "get lost lol"
+    }
+  ]
+}
