@@ -1,0 +1,44 @@
+{
+  "title": "Speed Dating Scam Edition",
+  "description": "When the chat goes from thirst to fraud checks in record time.",
+  "date": "2026-06-14T19:05:13.063251",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Stranger": "26"
+    },
+    {
+      "Ava": "damn i'm old lol"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "straight to the point i see"
+    },
+    {
+      "Stranger": "Mhm ;)"
+    },
+    {
+      "Ava": "u move fast lol"
+    },
+    {
+      "Stranger": "Got sc?"
+    },
+    {
+      "Ava": "nah why?"
+    }
+  ]
+}
