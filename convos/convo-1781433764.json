@@ -1,0 +1,41 @@
+{
+  "title": "Age Gap Aggression",
+  "description": "A 27-year-old from Florida skips the small talk to get straight to the point.",
+  "date": "2026-06-14T16:12:44.180688",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f what"
+    },
+    {
+      "Stranger": "27 us"
+    },
+    {
+      "Ava": "damn u old lol"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "That’s cool. Florida"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Stranger": "Horny at all?"
+    }
+  ]
+}
