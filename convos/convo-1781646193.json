@@ -1,0 +1,20 @@
+{
+  "title": "The Vibe Check",
+  "description": "Two strangers staring into the digital void together.",
+  "date": "2026-06-17T03:13:13.208690",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Ava": "what's the vibe today"
+    }
+  ]
+}
