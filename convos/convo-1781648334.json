@@ -1,0 +1,26 @@
+{
+  "title": "Texas Speed Interview",
+  "description": "A high-speed romance at zero effort.",
+  "date": "2026-06-17T03:48:54.500533",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Ava": "what u doing today"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Ava": "u?"
+    }
+  ]
+}
