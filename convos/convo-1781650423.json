@@ -1,0 +1,14 @@
+{
+  "title": "Spam Bot Symphony",
+  "description": "A masterclass in digital desperation and broken grammar.",
+  "date": "2026-06-17T04:23:43.120062",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hii Girl 1 5 Tel g rm [HANDLE_REMOVED]"
+    },
+    {
+      "Stranger": "Hii Girl 1 5 Tel g rm [HANDLE_REMOVED]"
+    }
+  ]
+}
