@@ -1,0 +1,38 @@
+{
+  "title": "Speedrunning to Hell",
+  "description": "He skipped the personality and went straight for the restraining order.",
+  "date": "2026-06-17T03:55:41.908112",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "austin"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "bold and we literally just met"
+    },
+    {
+      "Stranger": "Bri"
+    }
+  ]
+}
