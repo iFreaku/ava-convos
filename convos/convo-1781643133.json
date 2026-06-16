@@ -1,0 +1,14 @@
+{
+  "title": "The Bare Minimum Effort",
+  "description": "A riveting saga told in exactly two characters.",
+  "date": "2026-06-17T02:22:13.394224",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    }
+  ]
+}
