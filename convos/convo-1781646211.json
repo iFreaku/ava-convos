@@ -1,0 +1,26 @@
+{
+  "title": "The Bare Minimum Special",
+  "description": "A riveting conversation between two people doing absolutely zero effort.",
+  "date": "2026-06-17T03:13:31.595423",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Ava": "what's the vibe"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Ava": "what u up to"
+    }
+  ]
+}
