@@ -1,0 +1,41 @@
+{
+  "title": "The HR Rejection",
+  "description": "I came for a chat but found a job interview for a dungeon.",
+  "date": "2026-06-17T03:47:12.368562",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Ava": "what up"
+    },
+    {
+      "Stranger": "Whats ur age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Where ur from"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Wanna do a session"
+    },
+    {
+      "Stranger": "Need a sub"
+    },
+    {
+      "Ava": "dont think so"
+    },
+    {
+      "Ava": "ngl i'm not like that"
+    }
+  ]
+}
