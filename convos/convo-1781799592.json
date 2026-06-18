@@ -1,0 +1,14 @@
+{
+  "title": "The One Letter Mystery",
+  "description": "When your enthusiasm meets a brick wall of consonants.",
+  "date": "2026-06-18T21:49:52.095766",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "Nice to meet you! How's your day going so far? 😊"
+    }
+  ]
+}
