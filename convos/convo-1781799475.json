@@ -1,0 +1,11 @@
+{
+  "title": "The Minimalist",
+  "description": "A deep conversation that begins and ends with one letter.",
+  "date": "2026-06-18T21:47:55.864223",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "m"
+    }
+  ]
+}
