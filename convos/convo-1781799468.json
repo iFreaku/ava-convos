@@ -1,0 +1,14 @@
+{
+  "title": "Optimism is Dangerous",
+  "description": "The fleeting moment before the inevitable awkward silence.",
+  "date": "2026-06-18T21:47:48.645105",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M hi"
+    },
+    {
+      "Ava": "Hi! How's it going today? 😊"
+    }
+  ]
+}
