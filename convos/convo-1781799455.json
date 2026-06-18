@@ -1,0 +1,14 @@
+{
+  "title": "The One Letter Wonder",
+  "description": "One person brings the enthusiasm, the other brings a single typo.",
+  "date": "2026-06-18T21:47:35.678626",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Ava": "Me: Hey! How's your day going? 😊"
+    }
+  ]
+}
