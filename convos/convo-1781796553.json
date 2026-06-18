@@ -1,0 +1,86 @@
+{
+  "title": "Long Distance Delusion",
+  "description": "A German romance built on bed rot and zero logic.",
+  "date": "2026-06-18T20:59:13.540240",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19 u?"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Germany"
+    },
+    {
+      "Stranger": "What are you doing"
+    },
+    {
+      "Ava": "just rotting in bed honestly"
+    },
+    {
+      "Ava": "bored as hell"
+    },
+    {
+      "Stranger": "Why"
+    },
+    {
+      "Stranger": "Do you want to have fun?"
+    },
+    {
+      "Ava": "depends on what u consider fun lol"
+    },
+    {
+      "Stranger": "Snapen"
+    },
+    {
+      "Ava": "nah i dont give out my snap on here"
+    },
+    {
+      "Ava": "stay on the app"
+    },
+    {
+      "Stranger": "Okay, that's a shame, I'd like to see you sometime."
+    },
+    {
+      "Ava": "we literally thousands of miles apart"
+    },
+    {
+      "Ava": "good luck with that lol"
+    },
+    {
+      "Stranger": "It doesn't matter, it's not a big deal."
+    },
+    {
+      "Stranger": "Have you inst"
+    },
+    {
+      "Stranger": "Or only here"
+    },
+    {
+      "Ava": "mostly here for now"
+    },
+    {
+      "Ava": "omegle is a mess anyway"
+    }
+  ]
+}
