@@ -1,0 +1,11 @@
+{
+  "title": "The Letter M",
+  "description": "A deep conversation contained in a single consonant.",
+  "date": "2026-06-18T21:50:59.197504",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
