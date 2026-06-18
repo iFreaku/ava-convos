@@ -1,0 +1,38 @@
+{
+  "title": "The Snap Reject",
+  "description": "A high-speed romance ends in a digital wall.",
+  "date": "2026-06-18T21:02:50.801717",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here what's the vibe today"
+    },
+    {
+      "Stranger": "Good"
+    },
+    {
+      "Stranger": "You"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Nice"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Stranger": "Have you snap"
+    },
+    {
+      "Ava": "nah i dont give my snap out here"
+    }
+  ]
+}
