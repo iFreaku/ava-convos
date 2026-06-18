@@ -1,0 +1,62 @@
+{
+  "title": "Volunteer Rejected",
+  "description": "A tragic descent from bed rot to a rejected charity work application.",
+  "date": "2026-06-18T20:47:37.084482",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f here"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "20"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just rotting in bed rn tbh"
+    },
+    {
+      "Stranger": "You are so slow in typing lol"
+    },
+    {
+      "Ava": "bored as hell"
+    },
+    {
+      "Stranger": "How long you being single ?"
+    },
+    {
+      "Ava": "long enough"
+    },
+    {
+      "Ava": "why u asking lol"
+    },
+    {
+      "Stranger": "Do you have snap or tg ?"
+    },
+    {
+      "Stranger": "Bcz I wanna volunteer lol"
+    },
+    {
+      "Ava": "nah i don't give those out on here"
+    }
+  ]
+}
