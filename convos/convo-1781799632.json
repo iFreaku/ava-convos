@@ -1,0 +1,17 @@
+{
+  "title": "Small Talk Trap",
+  "description": "The fleeting optimism of a conversation before the awkward silence.",
+  "date": "2026-06-18T21:50:32.605582",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "Hey m"
+    },
+    {
+      "Stranger": "25"
+    },
+    {
+      "Ava": "Hey! I'm 22. How's your day going so far? :)"
+    }
+  ]
+}
