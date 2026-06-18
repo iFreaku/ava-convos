@@ -1,0 +1,14 @@
+{
+  "title": "The Bare Minimum",
+  "description": "A high-stakes romance told in four letters.",
+  "date": "2026-06-18T21:51:30.271527",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "m"
+    },
+    {
+      "Stranger": "Hii"
+    }
+  ]
+}
