@@ -1,0 +1,38 @@
+{
+  "title": "Speedrunning Romance",
+  "description": "He skipped the small talk for the symptoms.",
+  "date": "2026-06-18T20:41:26.770509",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "F or m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Male here"
+    },
+    {
+      "Ava": "cool what are u up to then"
+    },
+    {
+      "Stranger": "Horny??"
+    },
+    {
+      "Ava": "straight to the point i see"
+    }
+  ]
+}
