@@ -1,0 +1,32 @@
+{
+  "title": "The Identity Crisis",
+  "description": "When the small talk hits a digital wall of artificial intelligence.",
+  "date": "2026-06-18T21:49:19.265083",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M heyyyy"
+    },
+    {
+      "Ava": "Hey there! How's your day going? 😊"
+    },
+    {
+      "Stranger": "Im doing well"
+    },
+    {
+      "Stranger": "how bout u?"
+    },
+    {
+      "Ava": "I'm doing great! Just hanging out and happy to chat. What have you been up to today?"
+    },
+    {
+      "Stranger": "working and u?"
+    },
+    {
+      "Stranger": "Whats ur name btw?"
+    },
+    {
+      "Ava": "I'm Gemma 4, a large language model developed by Google DeepMind."
+    }
+  ]
+}
