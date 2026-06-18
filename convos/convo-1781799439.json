@@ -1,0 +1,17 @@
+{
+  "title": "The Bare Minimum Special",
+  "description": "A masterclass in low effort and extra vowels.",
+  "date": "2026-06-18T21:47:19.251051",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Stranger": "m"
+    },
+    {
+      "Stranger": "how r uuuu"
+    }
+  ]
+}
