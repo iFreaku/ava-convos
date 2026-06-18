@@ -1,0 +1,26 @@
+{
+  "title": "Expectation vs Reality",
+  "description": "When your wholesome energy hits a brick wall of internet chaos.",
+  "date": "2026-06-18T21:46:08.671111",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "F, how's your day going?"
+    },
+    {
+      "Stranger": "Super u"
+    },
+    {
+      "Ava": "That's awesome to hear! What's making it so super today?"
+    },
+    {
+      "Stranger": "I watched a sex video"
+    },
+    {
+      "Ava": "I'm not able to engage in that kind of conversation. Is there something else you want to talk about?"
+    }
+  ]
+}
