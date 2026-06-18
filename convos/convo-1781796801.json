@@ -1,0 +1,20 @@
+{
+  "title": "The Efficiency Expert",
+  "description": "A high-speed romance written in single letters.",
+  "date": "2026-06-18T21:03:21.089695",
+  "model": "google/diffusiongemma-26b-a4b-it",
+  "messages": [
+    {
+      "Stranger": "hi m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "age"
+    },
+    {
+      "Stranger": "f?"
+    }
+  ]
+}
