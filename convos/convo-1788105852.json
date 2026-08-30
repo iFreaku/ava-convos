@@ -1,0 +1,20 @@
+{
+  "title": "Mystery M Jaipur",
+  "description": "A single letter and a city name spark existential dread in the void of Omegle.",
+  "date": "2026-08-30T21:34:12.959239",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "M Jaipur"
+    },
+    {
+      "Stranger": "?"
+    }
+  ]
+}
