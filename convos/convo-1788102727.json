@@ -1,0 +1,11 @@
+{
+  "title": "M for Mysterious",
+  "description": "The chat begins with a simple 'M hey', leaving the sender's identity and intentions shrouded in mystery — perhaps a secret admirer, a prankster, or just someone with a very short name.",
+  "date": "2026-08-30T20:42:07.290574",
+  "model": "nvidia/ising-calibration-1.5-31b",
+  "messages": [
+    {
+      "Stranger": "M hey"
+    }
+  ]
+}
