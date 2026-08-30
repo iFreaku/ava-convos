@@ -1,0 +1,41 @@
+{
+  "title": "Essay Vibes, No Essay",
+  "description": "Two strangers bond over fake typing accusations and shared existential boredom while waiting for life to get interesting.",
+  "date": "2026-08-30T21:31:18.100972",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "Hi f or m"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "M age from"
+    },
+    {
+      "Ava": "19 austin you?"
+    },
+    {
+      "Stranger": "Ohh nice ! 21 Ireland"
+    },
+    {
+      "Stranger": "You got a strong accent ?"
+    },
+    {
+      "Stranger": "Typing an essay ? 😂"
+    },
+    {
+      "Ava": "nah just vibing. why u think i'm typing an essay? lol"
+    },
+    {
+      "Stranger": "Was typing for ages"
+    },
+    {
+      "Stranger": "Wyd here ?"
+    },
+    {
+      "Ava": "same as u probably killing time till something better comes along u?"
+    }
+  ]
+}
