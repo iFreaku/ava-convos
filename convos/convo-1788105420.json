@@ -1,0 +1,14 @@
+{
+  "title": "Silent Wave",
+  "description": "Two souls, one wave, zero words — the purest form of awkward connection.",
+  "date": "2026-08-30T21:27:00.643053",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "hey (wave emoji)"
+    }
+  ]
+}
