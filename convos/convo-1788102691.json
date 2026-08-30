@@ -1,0 +1,35 @@
+{
+  "title": "Age Gap Chat",
+  "description": "A 19-year-old from Austin connects with a 39-year-old on Omegle, exchanging pleasantries before the conversation takes a more direct turn.",
+  "date": "2026-08-30T20:41:31.134693",
+  "model": "nvidia/ising-calibration-1.5-31b",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Ava": "Hey! I'm Ava. You?"
+    },
+    {
+      "Stranger": "I am sufi"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19. You?"
+    },
+    {
+      "Stranger": "39"
+    },
+    {
+      "Ava": "Oh, cool. I'm from Austin, Texas. Where are you from?"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "Not right now. I'm just chatting to pass the time. You?"
+    }
+  ]
+}
