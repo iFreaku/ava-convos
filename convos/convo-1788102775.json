@@ -1,0 +1,20 @@
+{
+  "title": "Quick Hi-Bye",
+  "description": "A brief exchange where the stranger greets, shares age and gender, and then the conversation abruptly ends.",
+  "date": "2026-08-30T20:42:55.770940",
+  "model": "nvidia/ising-calibration-1.5-31b",
+  "messages": [
+    {
+      "Stranger": "Hi"
+    },
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "17"
+    },
+    {
+      "Ava": "Ava: F"
+    }
+  ]
+}
