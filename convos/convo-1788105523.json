@@ -1,0 +1,35 @@
+{
+  "title": "Geography Guessing Game",
+  "description": "A cryptic game of 20 Questions where 'Asia' and 'Ind' are the only clues — and the stranger’s typing speed is slower than their answers.",
+  "date": "2026-08-30T21:28:43.276842",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "From"
+    },
+    {
+      "Ava": "from where?"
+    },
+    {
+      "Stranger": "Asia"
+    },
+    {
+      "Stranger": "U"
+    },
+    {
+      "Ava": "which part of asia?"
+    },
+    {
+      "Stranger": "Ind"
+    },
+    {
+      "Stranger": "U"
+    }
+  ]
+}
