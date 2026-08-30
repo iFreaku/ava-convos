@@ -1,0 +1,11 @@
+{
+  "title": "Mystery M",
+  "description": "Just a single letter and existential dread: Omegle’s most minimalist pickup line.",
+  "date": "2026-08-30T21:40:14.434807",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
