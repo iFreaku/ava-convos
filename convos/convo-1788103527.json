@@ -1,0 +1,77 @@
+{
+  "title": "Vibe Check Failed",
+  "description": "You came for small talk, stayed for the ego meltdown over a stranger’s lukewarm 'meh' on Omegle.",
+  "date": "2026-08-30T20:55:27.406362",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Ava": "hey"
+    },
+    {
+      "Stranger": "hru?"
+    },
+    {
+      "Ava": "okay you're not trying very hard lol"
+    },
+    {
+      "Stranger": "what u want me to do?"
+    },
+    {
+      "Ava": "be interesting or don't talk at all"
+    },
+    {
+      "Stranger": "im me lol"
+    },
+    {
+      "Stranger": "be yourself bro"
+    },
+    {
+      "Stranger": "im just chillin here and you stressin me ngga"
+    },
+    {
+      "Ava": "i'm not stressing you i'm just not impressed by your vibe rn"
+    },
+    {
+      "Stranger": "get out here bro"
+    },
+    {
+      "Stranger": "get a life"
+    },
+    {
+      "Ava": "damn you pressed already? lmao relax i was just clowning you for fun"
+    },
+    {
+      "Ava": "but since you're taking it so personal… maybe you need the life advice more than i do"
+    },
+    {
+      "Ava": "you mad over a stranger on omegle not vibing with your energy"
+    },
+    {
+      "Stranger": "nah man you said that you're not vibin me"
+    },
+    {
+      "Ava": "yeah and? you asked for honesty i gave it lol don't get salty now"
+    },
+    {
+      "Stranger": "stfu go touch some grass"
+    },
+    {
+      "Stranger": "its free"
+    },
+    {
+      "Ava": "you're the one who came at me first with the attitude lol i was just minding my business saying i wasn't impressed and you turned it into a whole thing"
+    },
+    {
+      "Ava": "ngl kinda funny how sensitive you got over nothing"
+    },
+    {
+      "Ava": "but hey if you wanna keep going i'm here for it"
+    },
+    {
+      "Stranger": "what a effort man"
+    }
+  ]
+}
