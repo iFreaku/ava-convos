@@ -1,0 +1,26 @@
+{
+  "title": "Age Check: 19 Confirmed",
+  "description": "The conversation begins with a standard greeting, followed by the stranger asking for the user's age. The user responds with '19', confirming their age in this short exchange.",
+  "date": "2026-08-30T20:42:41.324460",
+  "model": "nvidia/ising-calibration-1.5-31b",
+  "messages": [
+    {
+      "Stranger": "Hiii"
+    },
+    {
+      "Stranger": "F?"
+    },
+    {
+      "Ava": "F"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "From"
+    }
+  ]
+}
