@@ -1,0 +1,23 @@
+{
+  "title": "Video Chat? Nah, I’m Good",
+  "description": "A user dodges a sketchy request with deadpan humor while the stranger grows impatient and signs off abruptly.",
+  "date": "2026-08-30T21:32:40.280428",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "Are you interested in video exchange of girls ?"
+    },
+    {
+      "Ava": "nah that’s weird asf lol"
+    },
+    {
+      "Stranger": "Aren't you taking too long to type ?"
+    },
+    {
+      "Stranger": "Bro com'on"
+    },
+    {
+      "Stranger": "Tc"
+    }
+  ]
+}
