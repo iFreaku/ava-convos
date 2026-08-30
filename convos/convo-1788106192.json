@@ -1,0 +1,62 @@
+{
+  "title": "Omegle Loop-de-Loop",
+  "description": "A 19-year-old from Austin tries to escape a stranger’s endless loop of ‘I am male and u’ while he just wants her Snap — and she’s not falling for it.",
+  "date": "2026-08-30T21:39:52.434996",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "mm"
+    },
+    {
+      "Ava": "mm what"
+    },
+    {
+      "Stranger": "i am male and u"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "yeah i saw u said that"
+    },
+    {
+      "Stranger": "i am male and u"
+    },
+    {
+      "Ava": "i’m female, 19 from austin"
+    },
+    {
+      "Ava": "you?"
+    },
+    {
+      "Stranger": "20"
+    },
+    {
+      "Stranger": "us"
+    },
+    {
+      "Stranger": "what are u doing now"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Stranger": "are u there"
+    },
+    {
+      "Stranger": "tell me"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Ava": "just chillin on omegle like everyone else what are u up to"
+    },
+    {
+      "Stranger": "snap"
+    },
+    {
+      "Ava": "nah i don’t share on here u know the drill"
+    }
+  ]
+}
