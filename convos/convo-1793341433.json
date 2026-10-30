@@ -1,0 +1,11 @@
+{
+  "title": "Instant Gender Reveal",
+  "description": "A bold attempt at brevity that lasted exactly one second.",
+  "date": "2026-10-30T11:53:53.523669",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
