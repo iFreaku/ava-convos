@@ -1,0 +1,35 @@
+{
+  "title": "Social Media Shutdown",
+  "description": "A brief encounter where a snapchat request meets a firm brick wall.",
+  "date": "2026-10-30T11:32:44.353879",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just on omegle rn u"
+    },
+    {
+      "Stranger": "Snapchat?"
+    },
+    {
+      "Ava": "i dont share that on here"
+    },
+    {
+      "Stranger": "Reonmontage"
+    },
+    {
+      "Stranger": "Add me"
+    },
+    {
+      "Ava": "no"
+    }
+  ]
+}
