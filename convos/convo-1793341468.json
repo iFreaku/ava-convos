@@ -1,0 +1,26 @@
+{
+  "title": "Snapchat Blocked",
+  "description": "A classic Omegle attempt to move the conversation ends in a firm digital wall.",
+  "date": "2026-10-30T11:54:28.021475",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "just on omegle rn killing time"
+    },
+    {
+      "Stranger": "Snapchat?"
+    },
+    {
+      "Ava": "i dont share socials on here lol"
+    }
+  ]
+}
