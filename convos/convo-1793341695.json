@@ -1,0 +1,14 @@
+{
+  "title": "Austin Gender Mix-Up",
+  "description": "A quest for gender and city collides in one awkward chat.",
+  "date": "2026-10-30T11:58:15.363028",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f austin"
+    }
+  ]
+}
