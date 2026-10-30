@@ -1,0 +1,11 @@
+{
+  "title": "Gender Reveal Fail",
+  "description": "A one-letter introduction that led nowhere fast.",
+  "date": "2026-10-30T11:54:39.331128",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    }
+  ]
+}
