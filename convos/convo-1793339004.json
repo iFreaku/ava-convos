@@ -1,0 +1,98 @@
+{
+  "title": "Couch Surfing Stranger",
+  "description": "A lonely stranger tries to cozy up, only to get roasted for being boring.",
+  "date": "2026-10-30T11:13:24.776455",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Stranger": "Hii"
+    },
+    {
+      "Ava": "f hi"
+    },
+    {
+      "Stranger": "Hey ;)"
+    },
+    {
+      "Ava": "sup"
+    },
+    {
+      "Stranger": "How are you?"
+    },
+    {
+      "Ava": "im good u"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "Just laying down"
+    },
+    {
+      "Ava": "same"
+    },
+    {
+      "Stranger": "Nice haha"
+    },
+    {
+      "Stranger": "Comfy?"
+    },
+    {
+      "Stranger": "lol"
+    },
+    {
+      "Ava": "yeah"
+    },
+    {
+      "Stranger": "Same"
+    },
+    {
+      "Ava": "lol"
+    },
+    {
+      "Stranger": "Just lonely haha"
+    },
+    {
+      "Ava": "damn"
+    },
+    {
+      "Stranger": "Yeahh"
+    },
+    {
+      "Ava": "why"
+    },
+    {
+      "Stranger": "No one’s here on the couch with me"
+    },
+    {
+      "Ava": "sucks"
+    },
+    {
+      "Stranger": "Yeahh"
+    },
+    {
+      "Stranger": "You?"
+    },
+    {
+      "Ava": "fine"
+    },
+    {
+      "Stranger": "Come here"
+    },
+    {
+      "Ava": "nah"
+    },
+    {
+      "Stranger": "lol"
+    },
+    {
+      "Ava": "youre boring"
+    }
+  ]
+}
