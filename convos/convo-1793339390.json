@@ -1,0 +1,38 @@
+{
+  "title": "The Quick Exit",
+  "description": "A hopeful 29-year-old discovers that being on Omegle isn't enough to seal the deal.",
+  "date": "2026-10-30T11:19:50.903618",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19 u?"
+    },
+    {
+      "Stranger": "29"
+    },
+    {
+      "Stranger": "Wyd"
+    },
+    {
+      "Ava": "on omegle what else lol"
+    },
+    {
+      "Stranger": "Horny?"
+    },
+    {
+      "Ava": "nah"
+    },
+    {
+      "Stranger": "Then"
+    }
+  ]
+}
