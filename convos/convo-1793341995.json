@@ -1,0 +1,62 @@
+{
+  "title": "Germ vs Texas",
+  "description": "A brief transatlantic encounter that ends abruptly when the small talk turns weird.",
+  "date": "2026-10-30T12:03:15.196801",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hi age"
+    },
+    {
+      "Ava": "19 u"
+    },
+    {
+      "Stranger": "21"
+    },
+    {
+      "Stranger": "From?"
+    },
+    {
+      "Ava": "cool"
+    },
+    {
+      "Stranger": "Yea"
+    },
+    {
+      "Ava": "where u from"
+    },
+    {
+      "Stranger": "Germ hbu"
+    },
+    {
+      "Ava": "austin texas"
+    },
+    {
+      "Stranger": "Okay"
+    },
+    {
+      "Ava": "ok"
+    },
+    {
+      "Stranger": "U like hrny?"
+    },
+    {
+      "Ava": "um what"
+    },
+    {
+      "Stranger": "Snp or telg for nus"
+    },
+    {
+      "Ava": "no"
+    },
+    {
+      "Stranger": "Okay"
+    }
+  ]
+}
