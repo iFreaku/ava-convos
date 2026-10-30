@@ -1,0 +1,17 @@
+{
+  "title": "One Word Wonder",
+  "description": "The fastest goodbye in Omegle history.",
+  "date": "2026-10-30T11:33:05.313883",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "hi"
+    },
+    {
+      "Ava": "hi... almost said bye but i stuck around lol"
+    },
+    {
+      "Stranger": "bye"
+    }
+  ]
+}
