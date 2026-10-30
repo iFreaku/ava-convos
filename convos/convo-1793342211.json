@@ -1,0 +1,56 @@
+{
+  "title": "Shot Down Dom",
+  "description": "A confident M Dom gets humbled by a 19-year-old who just wants to sleep.",
+  "date": "2026-10-30T12:06:51.010200",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M Dom"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Stranger": "Age"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "Wyd rn"
+    },
+    {
+      "Ava": "omegling at 1am what else"
+    },
+    {
+      "Stranger": "Want to have some fun bby"
+    },
+    {
+      "Ava": "nah not tonight"
+    },
+    {
+      "Stranger": "Oh"
+    },
+    {
+      "Ava": "yeah"
+    },
+    {
+      "Stranger": "Why not"
+    },
+    {
+      "Ava": "you're not my type"
+    },
+    {
+      "Stranger": "How so?"
+    },
+    {
+      "Ava": "you're trying way too hard and it's not working"
+    },
+    {
+      "Stranger": "Hmm yeah alr hahaha"
+    }
+  ]
+}
