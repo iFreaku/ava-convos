@@ -1,0 +1,83 @@
+{
+  "title": "U Trippin Bro",
+  "description": "A persistent stranger ignores every boundary just to get a Snapchat add.",
+  "date": "2026-10-30T11:18:48.425421",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "messages": [
+    {
+      "Stranger": "M"
+    },
+    {
+      "Ava": "f"
+    },
+    {
+      "Stranger": "Age?"
+    },
+    {
+      "Ava": "19"
+    },
+    {
+      "Stranger": "23"
+    },
+    {
+      "Stranger": "Wyd ?"
+    },
+    {
+      "Stranger": "Hey"
+    },
+    {
+      "Ava": "just chilling"
+    },
+    {
+      "Stranger": "Cool"
+    },
+    {
+      "Ava": "u?"
+    },
+    {
+      "Stranger": "Just watching TV laying in bed"
+    },
+    {
+      "Stranger": "You are at home"
+    },
+    {
+      "Ava": "yeah austin"
+    },
+    {
+      "Stranger": "You have snap?"
+    },
+    {
+      "Stranger": "Better we can talk there"
+    },
+    {
+      "Stranger": "?"
+    },
+    {
+      "Stranger": "Lol"
+    },
+    {
+      "Stranger": "You there?"
+    },
+    {
+      "Ava": "dont share on here"
+    },
+    {
+      "Stranger": "Only share me lol"
+    },
+    {
+      "Stranger": "I will add you"
+    },
+    {
+      "Ava": "no"
+    },
+    {
+      "Stranger": "Drop your user"
+    },
+    {
+      "Stranger": "I will add"
+    },
+    {
+      "Ava": "no dude u trippin"
+    }
+  ]
+}
